@@ -1,0 +1,501 @@
+Order ID,Order Date,Ship Date,Ship Mode,Customer ID,Customer Name,Segment,Country,City,State,Region,Product ID,Category,Subcategory,Product Name,Sales,Quantity,Profit,Returns,Payment Mode
+WM-100001,2024-11-17,2024-11-19,Same Day,CUST-1520,Brian Yang,Consumer,United States,North Judithbury,California,West,PROD-22280,Office Supplies,Paper,A4 Paper Pack,366.05,2,74.86,Yes,Debit Card
+WM-100002,2024-08-08,2024-08-10,Second Class,CUST-7924,Jonathan Johnson,Corporate,United States,New Roberttown,New York,East,PROD-46421,Office Supplies,Binders,Heavy Duty Binder,1134.04,5,299.66,Yes,Debit Card
+WM-100003,2025-07-25,2025-07-26,Same Day,CUST-9785,Jerry Ramirez,Consumer,United States,Lake Debra,Pennsylvania,East,PROD-59615,Furniture,Chairs,Gaming Chair,910.27,6,156.27,Yes,Credit Card
+WM-100004,2025-02-16,2025-02-17,Standard Class,CUST-7227,Daniel Gallagher,Corporate,United States,Port Lindachester,Ohio,Central,PROD-69429,Office Supplies,Binders,Ring Binder,1659.93,5,569.94,No,Cash on Delivery
+WM-100005,2026-03-17,2026-03-20,Second Class,CUST-3677,Dennis Williams,Corporate,United States,North Noahstad,Pennsylvania,East,PROD-59735,Technology,Phones,Google Pixel 8,1760.51,2,306.52,No,Cash on Delivery
+WM-100006,2024-07-28,2024-08-04,Second Class,CUST-9179,Sandra Montgomery,Corporate,United States,Herrerafurt,Pennsylvania,East,PROD-94259,Furniture,Chairs,Office Chair,802.32,5,-56.34,No,UPI
+WM-100007,2024-07-02,2024-07-07,First Class,CUST-4593,Patricia Galloway,Consumer,United States,Barbaraland,Pennsylvania,East,PROD-76784,Furniture,Chairs,Executive Chair,1356.66,10,125.89,No,UPI
+WM-100008,2024-12-29,2024-12-31,Same Day,CUST-8668,Roy Martin,Home Office,United States,Port Craig,California,West,PROD-42953,Furniture,Chairs,Executive Chair,1984.36,7,334.13,No,Net Banking
+WM-100009,2025-11-24,2025-12-01,Same Day,CUST-1053,Maria Lynch,Home Office,United States,Jasonview,California,West,PROD-44522,Office Supplies,Storage,File Organizer,1609.59,2,51.63,No,Net Banking
+WM-100010,2024-10-01,2024-10-03,First Class,CUST-9005,Devin Schaefer,Consumer,United States,New Jessica,New York,East,PROD-24662,Office Supplies,Paper,A4 Paper Pack,947.31,3,135.2,Yes,Cash on Delivery
+WM-100011,2026-01-14,2026-01-15,Second Class,CUST-8787,Crystal Johnson,Home Office,United States,Lake Mark,Illinois,Central,PROD-31643,Furniture,Chairs,Executive Chair,232.42,8,62.11,No,Cash on Delivery
+WM-100012,2024-11-07,2024-11-13,Standard Class,CUST-5061,Latoya Robbins,Consumer,United States,Richardland,Georgia,South,PROD-18392,Office Supplies,Storage,Storage Box,793.06,6,77.04,No,Cash on Delivery
+WM-100013,2026-04-15,2026-04-16,First Class,CUST-2160,Judy Baker,Home Office,United States,Lake Victor,Washington,West,PROD-41195,Office Supplies,Binders,Ring Binder,1775.45,1,5.37,Yes,Cash on Delivery
+WM-100014,2024-12-18,2024-12-20,Same Day,CUST-6804,Jessica Silva,Corporate,United States,Lake Anna,Georgia,South,PROD-63883,Office Supplies,Binders,Heavy Duty Binder,1965.86,7,-28.14,Yes,UPI
+WM-100015,2025-06-27,2025-06-30,Same Day,CUST-3296,Peter Callahan Jr.,Corporate,United States,Jeffreyberg,California,West,PROD-34050,Furniture,Tables,Study Table,2005.47,2,23.86,No,Cash on Delivery
+WM-100016,2025-09-03,2025-09-04,Second Class,CUST-3724,James Ferrell,Corporate,United States,Port Erin,Georgia,South,PROD-73653,Furniture,Tables,Study Table,145.46,9,40.18,Yes,UPI
+WM-100017,2025-11-07,2025-11-08,First Class,CUST-7930,Melanie Herrera,Home Office,United States,Tashatown,New Jersey,East,PROD-82845,Furniture,Chairs,Gaming Chair,2463.57,5,780.79,No,UPI
+WM-100018,2024-08-22,2024-08-27,Standard Class,CUST-8811,Christopher Smith,Home Office,United States,Kaylamouth,Massachusetts,East,PROD-79615,Technology,Phones,iPhone 15,1844.63,1,436.42,Yes,Debit Card
+WM-100019,2025-06-26,2025-06-27,Standard Class,CUST-2343,Sheila Evans,Corporate,United States,Teresaburgh,California,West,PROD-96163,Furniture,Chairs,Executive Chair,1694.53,4,138.44,No,Net Banking
+WM-100020,2024-09-30,2024-10-02,Same Day,CUST-6180,Paula Moreno,Consumer,United States,East Nathaniel,Ohio,Central,PROD-11220,Furniture,Bookcases,Metal Bookcase,678.72,3,137.28,No,UPI
+WM-100021,2024-08-22,2024-08-24,First Class,CUST-3584,Sherry Decker,Corporate,United States,New Mariotown,California,West,PROD-81200,Office Supplies,Binders,Heavy Duty Binder,2334.48,2,690.24,No,Cash on Delivery
+WM-100022,2026-04-09,2026-04-12,First Class,CUST-5616,Angela Dennis,Home Office,United States,Johnbury,Oregon,West,PROD-37607,Office Supplies,Binders,Ring Binder,306.26,2,71.69,No,Cash on Delivery
+WM-100023,2024-09-04,2024-09-11,Standard Class,CUST-6464,Theresa Martin,Consumer,United States,Port Amandaberg,Pennsylvania,East,PROD-93507,Office Supplies,Paper,Sticky Notes,145.98,7,39.88,Yes,Cash on Delivery
+WM-100024,2026-01-04,2026-01-09,Standard Class,CUST-7049,Christina Collins,Home Office,United States,Brandtside,New Jersey,East,PROD-82420,Office Supplies,Storage,File Organizer,43.98,2,14.31,No,Debit Card
+WM-100025,2025-05-13,2025-05-20,Second Class,CUST-2684,Danny Morgan,Corporate,United States,Samuelhaven,Georgia,South,PROD-83385,Furniture,Tables,Coffee Table,2431.05,1,740.29,No,UPI
+WM-100026,2024-07-22,2024-07-23,Second Class,CUST-5371,Amy Jones,Consumer,United States,New Jeffrey,Massachusetts,East,PROD-24168,Furniture,Chairs,Gaming Chair,464.81,6,117.17,No,UPI
+WM-100027,2024-11-28,2024-12-01,Same Day,CUST-6378,John Ryan,Corporate,United States,Port Markhaven,Nevada,West,PROD-19099,Furniture,Chairs,Gaming Chair,776.87,4,0.25,No,Cash on Delivery
+WM-100028,2026-02-14,2026-02-15,Standard Class,CUST-2776,Brandon Hopkins,Home Office,United States,Sanchezfort,Michigan,Central,PROD-66959,Office Supplies,Storage,File Organizer,306.05,5,-6.01,No,Cash on Delivery
+WM-100029,2026-03-29,2026-04-02,Standard Class,CUST-9518,Megan Joyce,Home Office,United States,Rodneymouth,Michigan,Central,PROD-97900,Office Supplies,Storage,Storage Box,2250.77,4,32.92,No,Debit Card
+WM-100030,2026-02-08,2026-02-13,First Class,CUST-7691,Danielle Lee,Corporate,United States,North Richardmouth,Michigan,Central,PROD-62743,Furniture,Bookcases,Metal Bookcase,798.51,2,178.78,No,Cash on Delivery
+WM-100031,2024-12-30,2025-01-05,Same Day,CUST-9977,Shannon Jones,Consumer,United States,Taylorburgh,Massachusetts,East,PROD-49829,Technology,Copiers,Canon Copier,1875.37,3,331.91,No,Cash on Delivery
+WM-100032,2026-03-08,2026-03-12,Standard Class,CUST-5649,Brandon Molina,Home Office,United States,North Deniseside,New Jersey,East,PROD-97012,Office Supplies,Storage,File Organizer,1115.63,4,145.06,No,Net Banking
+WM-100033,2025-06-05,2025-06-07,Same Day,CUST-2193,James Brown,Corporate,United States,East Richard,Texas,Central,PROD-64321,Furniture,Bookcases,Metal Bookcase,2020.28,3,-179.82,No,Net Banking
+WM-100034,2024-12-19,2024-12-21,Same Day,CUST-4585,Rachel Mitchell,Consumer,United States,Smithfurt,New Jersey,East,PROD-77889,Technology,Accessories,Wireless Mouse,1647.02,1,496.9,Yes,UPI
+WM-100035,2024-11-13,2024-11-20,Same Day,CUST-9270,Lauren Daniels,Corporate,United States,Mooreport,Washington,West,PROD-81810,Furniture,Tables,Dining Table,1172.32,9,403.92,No,UPI
+WM-100036,2025-06-02,2025-06-09,First Class,CUST-8206,Sarah Moore,Consumer,United States,Brianshire,New Jersey,East,PROD-47450,Technology,Accessories,Wireless Mouse,1601.4,9,189.08,No,Debit Card
+WM-100037,2025-11-03,2025-11-05,Standard Class,CUST-7797,Jennifer David,Corporate,United States,Port Jacobland,Ohio,Central,PROD-53369,Technology,Copiers,HP Copier,394.06,7,83.65,No,Net Banking
+WM-100038,2025-09-21,2025-09-25,Same Day,CUST-8814,Matthew Cunningham,Consumer,United States,New Brooke,Virginia,South,PROD-56105,Furniture,Chairs,Gaming Chair,2264,10,737.45,Yes,Cash on Delivery
+WM-100039,2025-10-30,2025-11-03,First Class,CUST-7624,Cynthia Foster,Home Office,United States,Sarahborough,Virginia,South,PROD-31632,Office Supplies,Storage,Storage Box,564.17,7,66.88,No,UPI
+WM-100040,2024-06-04,2024-06-05,Standard Class,CUST-5262,Zachary Ferrell,Corporate,United States,Stephenland,New York,East,PROD-52906,Technology,Copiers,HP Copier,1614.02,3,468.2,No,Debit Card
+WM-100041,2024-09-07,2024-09-14,Same Day,CUST-1317,Shirley Suarez,Home Office,United States,New Jasonview,North Carolina,South,PROD-80702,Technology,Accessories,USB-C Hub,2378.99,7,32.17,Yes,Credit Card
+WM-100042,2026-03-06,2026-03-13,Second Class,CUST-4908,Elizabeth Riggs,Consumer,United States,Justinmouth,Illinois,Central,PROD-72070,Office Supplies,Binders,Ring Binder,96.95,4,-1,Yes,Credit Card
+WM-100043,2026-05-21,2026-05-23,First Class,CUST-2771,Teresa Taylor,Home Office,United States,Lake Lisaport,New Jersey,East,PROD-13365,Office Supplies,Paper,Sticky Notes,1522.61,2,380.66,No,Cash on Delivery
+WM-100044,2024-12-25,2024-12-30,Standard Class,CUST-1672,Daniel Cooper,Corporate,United States,North Juliaberg,Virginia,South,PROD-79827,Office Supplies,Binders,Ring Binder,1732.72,4,-93.82,No,UPI
+WM-100045,2026-05-01,2026-05-02,Same Day,CUST-3506,Amber Walters,Corporate,United States,Williamview,Texas,Central,PROD-33086,Office Supplies,Storage,File Organizer,2126.95,8,-111.68,No,Net Banking
+WM-100046,2026-01-16,2026-01-21,First Class,CUST-8385,William Martin,Consumer,United States,Bradleymouth,Michigan,Central,PROD-70910,Technology,Accessories,Laptop Sleeve,685.62,4,187.74,Yes,Net Banking
+WM-100047,2025-08-06,2025-08-08,First Class,CUST-5526,Benjamin Ware,Home Office,United States,Arnoldchester,North Carolina,South,PROD-11330,Furniture,Tables,Coffee Table,1229.12,6,318.37,No,Net Banking
+WM-100048,2025-03-10,2025-03-14,Same Day,CUST-1282,Brittany Anderson,Consumer,United States,New Barry,New York,East,PROD-48566,Furniture,Bookcases,Metal Bookcase,1396.84,4,294.42,No,Debit Card
+WM-100049,2026-04-26,2026-04-30,First Class,CUST-8434,Michael Estrada,Corporate,United States,Michaelton,Georgia,South,PROD-50189,Technology,Copiers,Canon Copier,1392.61,6,127.39,No,Cash on Delivery
+WM-100050,2025-09-22,2025-09-23,First Class,CUST-9595,Tammy Young,Home Office,United States,Kimberlychester,New York,East,PROD-47093,Office Supplies,Binders,Heavy Duty Binder,1862.35,3,-25.71,No,Credit Card
+WM-100051,2026-04-12,2026-04-15,Standard Class,CUST-5786,Christopher Middleton,Home Office,United States,Port Lisa,Pennsylvania,East,PROD-26551,Furniture,Tables,Dining Table,55.09,9,-2.37,Yes,UPI
+WM-100052,2024-12-21,2024-12-25,Same Day,CUST-2869,Michael Reyes,Consumer,United States,Phambury,California,West,PROD-62521,Office Supplies,Paper,Sticky Notes,1112.36,3,372.06,No,UPI
+WM-100053,2026-02-21,2026-02-24,Second Class,CUST-9561,Hannah Hoover,Corporate,United States,Port Thomasborough,California,West,PROD-69049,Furniture,Chairs,Executive Chair,231.25,4,-10.8,No,UPI
+WM-100054,2024-10-25,2024-10-30,Second Class,CUST-5335,Donald Jones,Home Office,United States,East Andrew,Michigan,Central,PROD-20641,Technology,Copiers,HP Copier,2401.07,2,783.75,No,Debit Card
+WM-100055,2025-04-03,2025-04-04,Second Class,CUST-5720,Sarah Rivera,Home Office,United States,Michaelhaven,Massachusetts,East,PROD-47056,Office Supplies,Binders,Ring Binder,1033.12,10,115.15,Yes,UPI
+WM-100056,2024-10-13,2024-10-17,Second Class,CUST-2169,Victoria Johnson,Consumer,United States,North Natalieview,Washington,West,PROD-31747,Technology,Copiers,HP Copier,304.65,4,58.32,No,Cash on Delivery
+WM-100057,2025-05-01,2025-05-04,Same Day,CUST-2317,Kayla Cruz,Home Office,United States,Reedmouth,Michigan,Central,PROD-15224,Furniture,Tables,Study Table,1755.34,5,219.79,No,UPI
+WM-100058,2025-05-01,2025-05-07,First Class,CUST-1659,Timothy Ryan,Consumer,United States,West Bradley,Ohio,Central,PROD-71669,Furniture,Chairs,Office Chair,2093.18,10,343.71,Yes,Net Banking
+WM-100059,2025-10-25,2025-10-31,First Class,CUST-6260,Lisa Alvarado,Home Office,United States,West Ryan,North Carolina,South,PROD-23710,Furniture,Bookcases,Metal Bookcase,2039.33,2,227.39,No,Debit Card
+WM-100060,2025-01-23,2025-01-29,First Class,CUST-5135,Erika Terry,Corporate,United States,Lake Rachelhaven,Michigan,Central,PROD-25194,Office Supplies,Paper,Sticky Notes,2364.08,9,-197.37,Yes,UPI
+WM-100061,2026-05-28,2026-06-02,Second Class,CUST-5375,Paul Thompson,Home Office,United States,East Robert,Nevada,West,PROD-27172,Technology,Phones,iPhone 15,917.21,8,166.41,Yes,Cash on Delivery
+WM-100062,2025-01-19,2025-01-24,Same Day,CUST-2527,Jeffrey Carpenter,Consumer,United States,Richardtown,Virginia,South,PROD-24871,Furniture,Chairs,Executive Chair,2002.3,3,79.77,Yes,UPI
+WM-100063,2025-11-03,2025-11-08,Second Class,CUST-8483,John Santana,Home Office,United States,Stevenmouth,Washington,West,PROD-28958,Technology,Copiers,Canon Copier,1769.42,7,487.7,No,UPI
+WM-100064,2025-07-02,2025-07-05,First Class,CUST-5891,Lisa Davis,Home Office,United States,Lake Christopher,Massachusetts,East,PROD-86011,Furniture,Tables,Coffee Table,2336.94,9,47.27,Yes,UPI
+WM-100065,2026-02-13,2026-02-16,Second Class,CUST-4912,Alexander Sanchez,Home Office,United States,Lake Lance,New Jersey,East,PROD-60196,Office Supplies,Paper,Sticky Notes,1388.76,9,96.86,No,Debit Card
+WM-100066,2025-05-16,2025-05-22,Same Day,CUST-1606,Mark Lee,Consumer,United States,Carrland,Florida,South,PROD-75836,Technology,Copiers,Canon Copier,2285.31,7,168.51,No,Net Banking
+WM-100067,2024-09-19,2024-09-23,Standard Class,CUST-8692,Abigail Potter,Corporate,United States,Snyderbury,Texas,Central,PROD-54375,Technology,Phones,Google Pixel 8,58.06,3,4.91,No,Net Banking
+WM-100068,2026-02-11,2026-02-14,Standard Class,CUST-4846,Kelly Williams,Home Office,United States,Port Ronaldburgh,Florida,South,PROD-99705,Technology,Copiers,Canon Copier,1574.46,8,460.64,Yes,Cash on Delivery
+WM-100069,2024-09-08,2024-09-14,Standard Class,CUST-1753,Mary Travis,Corporate,United States,Port David,New York,East,PROD-17355,Technology,Phones,Google Pixel 8,2184,8,-54.9,No,Cash on Delivery
+WM-100070,2025-09-15,2025-09-20,Same Day,CUST-4945,Stephanie Simmons,Corporate,United States,Stephaniemouth,Ohio,Central,PROD-86435,Technology,Phones,iPhone 15,1041.89,3,-24.49,Yes,Debit Card
+WM-100071,2025-05-12,2025-05-15,Standard Class,CUST-8237,David Walsh,Corporate,United States,Merrittfort,New Jersey,East,PROD-87014,Office Supplies,Paper,Sticky Notes,1673.76,8,511.41,No,Cash on Delivery
+WM-100072,2025-05-04,2025-05-08,First Class,CUST-5837,Dustin Nelson,Consumer,United States,Simsview,North Carolina,South,PROD-96275,Technology,Accessories,Wireless Mouse,2136.27,2,14.4,No,UPI
+WM-100073,2024-09-12,2024-09-17,First Class,CUST-4588,James Hernandez,Home Office,United States,Patricialand,Texas,Central,PROD-34920,Office Supplies,Storage,Storage Box,1868.03,5,465.3,No,Net Banking
+WM-100074,2025-02-09,2025-02-12,Standard Class,CUST-5835,Jennifer Clark,Corporate,United States,North Robert,Illinois,Central,PROD-64460,Office Supplies,Binders,Ring Binder,1975.75,1,317.72,No,Debit Card
+WM-100075,2025-11-19,2025-11-26,First Class,CUST-2886,Spencer Johnston,Corporate,United States,Priceshire,Massachusetts,East,PROD-19869,Office Supplies,Paper,Sticky Notes,428.07,8,143.54,No,Debit Card
+WM-100076,2025-01-14,2025-01-21,First Class,CUST-5295,Sarah Ashley,Home Office,United States,Smithstad,New Jersey,East,PROD-59941,Office Supplies,Paper,A4 Paper Pack,998.54,5,141.25,No,Cash on Delivery
+WM-100077,2026-02-08,2026-02-13,Same Day,CUST-5951,Connie Robinson,Home Office,United States,Medinaside,Washington,West,PROD-63516,Technology,Phones,Google Pixel 8,833.46,10,-0.32,Yes,Credit Card
+WM-100078,2025-02-13,2025-02-14,First Class,CUST-9850,Rebecca Ramsey,Corporate,United States,Tuckerfurt,New York,East,PROD-86983,Furniture,Tables,Coffee Table,261.04,9,-10.17,No,Debit Card
+WM-100079,2024-06-17,2024-06-20,Second Class,CUST-6942,Leslie Alvarado,Consumer,United States,Calhounside,Florida,South,PROD-99873,Technology,Copiers,Canon Copier,101.14,6,-0.23,No,Cash on Delivery
+WM-100080,2024-10-16,2024-10-17,Standard Class,CUST-1828,James Lewis,Corporate,United States,Lake Roymouth,Texas,Central,PROD-41925,Technology,Accessories,Wireless Mouse,2373.55,8,-139.44,No,Debit Card
+WM-100081,2024-12-30,2025-01-06,First Class,CUST-3370,Sandra King,Consumer,United States,Matthewfurt,New York,East,PROD-80807,Office Supplies,Binders,Ring Binder,2176.84,6,540.87,Yes,Cash on Delivery
+WM-100082,2024-07-07,2024-07-08,Second Class,CUST-5347,Mrs. Marie Harrington DDS,Consumer,United States,South Andrewside,New York,East,PROD-26614,Office Supplies,Binders,Ring Binder,908.44,4,149.88,Yes,UPI
+WM-100083,2025-09-22,2025-09-27,First Class,CUST-8504,Cameron Caldwell,Home Office,United States,East Jamestown,California,West,PROD-14082,Technology,Accessories,USB-C Hub,1492.29,8,189.11,Yes,Credit Card
+WM-100084,2026-01-13,2026-01-17,First Class,CUST-3430,Larry Stuart,Consumer,United States,South Holly,Virginia,South,PROD-26540,Technology,Copiers,HP Copier,1786.76,8,-119.59,Yes,Cash on Delivery
+WM-100085,2024-08-19,2024-08-23,Second Class,CUST-8046,Tanya Johnston,Corporate,United States,Port Loriport,Michigan,Central,PROD-39949,Office Supplies,Storage,File Organizer,1273.77,7,-70.53,Yes,UPI
+WM-100086,2024-07-26,2024-07-27,Second Class,CUST-8770,Sandra Sanchez,Consumer,United States,Sandersborough,Michigan,Central,PROD-21957,Technology,Accessories,Laptop Sleeve,795.12,6,158.47,No,Credit Card
+WM-100087,2026-02-05,2026-02-12,Standard Class,CUST-7730,Dr. Hannah Patterson,Corporate,United States,Melissaville,Nevada,West,PROD-97207,Furniture,Bookcases,Metal Bookcase,342.69,1,56.17,No,UPI
+WM-100088,2024-06-06,2024-06-07,Second Class,CUST-2773,Samantha Garcia,Corporate,United States,Caseymouth,Oregon,West,PROD-82910,Office Supplies,Paper,Sticky Notes,1453.24,4,-44.14,No,Cash on Delivery
+WM-100089,2025-11-28,2025-12-05,First Class,CUST-1474,Christopher Boyd,Consumer,United States,Cynthiamouth,Oregon,West,PROD-45818,Office Supplies,Binders,Heavy Duty Binder,1411.19,10,248.52,Yes,Cash on Delivery
+WM-100090,2026-01-19,2026-01-24,Standard Class,CUST-9691,Mr. Nicholas Adams,Consumer,United States,Christinaside,Ohio,Central,PROD-59308,Furniture,Chairs,Office Chair,1650.21,2,-59.67,Yes,UPI
+WM-100091,2024-12-30,2025-01-05,Second Class,CUST-3579,Dana Marshall,Home Office,United States,Port Sarah,North Carolina,South,PROD-16522,Furniture,Tables,Coffee Table,824.47,10,138.76,Yes,Credit Card
+WM-100092,2026-03-19,2026-03-24,First Class,CUST-8043,John Kelly,Consumer,United States,Rogersfort,Michigan,Central,PROD-47125,Office Supplies,Paper,Sticky Notes,1116.27,5,-3.34,Yes,Net Banking
+WM-100093,2025-08-02,2025-08-07,Second Class,CUST-5186,Travis Miller,Corporate,United States,Matthewview,North Carolina,South,PROD-53007,Furniture,Chairs,Gaming Chair,155.86,4,5.55,No,Credit Card
+WM-100094,2025-11-15,2025-11-17,Standard Class,CUST-7505,Michael West,Home Office,United States,Freemanbury,Nevada,West,PROD-15544,Office Supplies,Paper,A4 Paper Pack,962.91,4,120.48,No,UPI
+WM-100095,2025-11-16,2025-11-20,Standard Class,CUST-6321,Matthew Wood,Consumer,United States,North Kellyfurt,Nevada,West,PROD-91018,Furniture,Tables,Study Table,1442.03,7,43.67,No,UPI
+WM-100096,2025-02-08,2025-02-12,First Class,CUST-4630,Jesse Parker,Corporate,United States,Ronaldside,Texas,Central,PROD-32037,Technology,Phones,iPhone 15,1480.4,9,-95.65,No,Credit Card
+WM-100097,2025-01-28,2025-02-04,First Class,CUST-4232,Joshua Gill,Consumer,United States,North Jennifer,Washington,West,PROD-88957,Technology,Accessories,Laptop Sleeve,1620.7,3,10.24,No,Debit Card
+WM-100098,2025-06-08,2025-06-15,First Class,CUST-3473,Kevin Wolf,Corporate,United States,East Javier,Washington,West,PROD-18950,Office Supplies,Paper,Sticky Notes,1418.06,10,144.65,No,UPI
+WM-100099,2025-01-13,2025-01-16,Standard Class,CUST-7041,Christopher Smith,Corporate,United States,Tinaborough,North Carolina,South,PROD-20057,Technology,Copiers,HP Copier,1278.2,5,137.77,Yes,Credit Card
+WM-100100,2024-07-09,2024-07-13,Same Day,CUST-9214,Melissa Martinez,Consumer,United States,West Brandon,Virginia,South,PROD-18109,Office Supplies,Storage,Storage Box,2274.44,10,439.71,No,UPI
+WM-100101,2025-08-16,2025-08-17,First Class,CUST-7108,John Peterson,Corporate,United States,Garciatown,Oregon,West,PROD-60779,Office Supplies,Binders,Ring Binder,634.4,8,219.47,No,UPI
+WM-100102,2024-08-24,2024-08-25,First Class,CUST-3463,Jennifer Jones,Corporate,United States,West Shelleyfort,Texas,Central,PROD-20682,Office Supplies,Storage,File Organizer,837.63,9,171.94,No,Net Banking
+WM-100103,2025-01-18,2025-01-20,First Class,CUST-3093,David Grant,Home Office,United States,East Edwardshire,Pennsylvania,East,PROD-99838,Technology,Copiers,Canon Copier,1495.7,2,58.8,No,Net Banking
+WM-100104,2026-01-20,2026-01-23,Second Class,CUST-4711,Joanna Ramos,Consumer,United States,Obrienbury,Nevada,West,PROD-30308,Office Supplies,Paper,A4 Paper Pack,785.99,4,42.27,No,Credit Card
+WM-100105,2025-09-13,2025-09-19,Second Class,CUST-3658,Annette Farmer,Consumer,United States,Torreston,Texas,Central,PROD-91885,Office Supplies,Storage,Storage Box,855.18,10,-35.09,No,Debit Card
+WM-100106,2024-09-26,2024-10-02,Second Class,CUST-9749,Juan Moore,Consumer,United States,West Donna,Florida,South,PROD-50562,Technology,Accessories,Laptop Sleeve,609.07,8,106.45,No,UPI
+WM-100107,2025-01-09,2025-01-13,Second Class,CUST-4271,Dwayne Campbell,Home Office,United States,Hayesfort,Pennsylvania,East,PROD-28140,Office Supplies,Storage,File Organizer,1928.21,7,243.55,No,Cash on Delivery
+WM-100108,2026-05-15,2026-05-21,First Class,CUST-8361,Rick Lawrence,Home Office,United States,Jonesbury,Nevada,West,PROD-29313,Technology,Copiers,HP Copier,2117.81,2,59.89,No,UPI
+WM-100109,2024-11-18,2024-11-22,Standard Class,CUST-7142,Susan Serrano,Consumer,United States,South Danny,Washington,West,PROD-13694,Technology,Accessories,Wireless Mouse,152.08,9,10.38,No,Cash on Delivery
+WM-100110,2025-09-02,2025-09-05,Same Day,CUST-8349,Laura Roberts,Home Office,United States,North Gabrielport,Oregon,West,PROD-10688,Furniture,Chairs,Office Chair,2295.14,8,489.4,No,Credit Card
+WM-100111,2024-12-25,2024-12-31,Second Class,CUST-5934,Katherine Miller,Consumer,United States,South Haleyfurt,Oregon,West,PROD-16258,Furniture,Chairs,Executive Chair,1530.02,7,-76.45,No,Debit Card
+WM-100112,2024-06-17,2024-06-22,First Class,CUST-8032,Vernon Huff,Consumer,United States,South Jessicaview,Virginia,South,PROD-90584,Furniture,Chairs,Gaming Chair,1349.41,9,214.25,No,Cash on Delivery
+WM-100113,2025-08-18,2025-08-23,Same Day,CUST-8702,Peter Ruiz,Consumer,United States,Port Emilyview,New Jersey,East,PROD-93318,Furniture,Bookcases,Wooden Bookcase,2437.14,2,801.9,Yes,UPI
+WM-100114,2025-08-25,2025-09-01,First Class,CUST-3185,Robert Costa,Consumer,United States,Moonburgh,Ohio,Central,PROD-56176,Office Supplies,Binders,Heavy Duty Binder,187.55,4,43.1,Yes,Net Banking
+WM-100115,2025-02-01,2025-02-07,Standard Class,CUST-5807,Shannon Rivera,Consumer,United States,Baileymouth,Illinois,Central,PROD-15741,Office Supplies,Paper,Sticky Notes,472.05,3,-33.8,No,Debit Card
+WM-100116,2026-02-18,2026-02-25,First Class,CUST-6848,Amanda Miller,Consumer,United States,Robertsfurt,Oregon,West,PROD-95948,Technology,Copiers,Canon Copier,1366.72,5,-114.15,No,Cash on Delivery
+WM-100117,2026-03-30,2026-04-05,Same Day,CUST-9151,Virginia Sandoval,Corporate,United States,Marcusfurt,Texas,Central,PROD-78062,Technology,Accessories,USB-C Hub,1110.55,7,58.38,No,Cash on Delivery
+WM-100118,2025-07-04,2025-07-11,First Class,CUST-5843,Peter Garrett,Corporate,United States,Gutierrezborough,Nevada,West,PROD-68447,Furniture,Tables,Study Table,467.53,5,20.83,Yes,Net Banking
+WM-100119,2026-05-18,2026-05-22,First Class,CUST-1939,Stanley Washington,Consumer,United States,East Josephberg,Georgia,South,PROD-97973,Office Supplies,Paper,Sticky Notes,125.04,6,22.09,No,UPI
+WM-100120,2025-11-30,2025-12-06,First Class,CUST-6933,Juan Tran,Corporate,United States,Lake Chelseabury,Illinois,Central,PROD-84349,Furniture,Chairs,Executive Chair,1957.65,1,-84.56,No,Credit Card
+WM-100121,2025-05-21,2025-05-28,First Class,CUST-5566,Maria Moore,Consumer,United States,East Victoriaville,New Jersey,East,PROD-24869,Technology,Accessories,USB-C Hub,210.68,3,29.13,No,Credit Card
+WM-100122,2025-04-15,2025-04-18,Same Day,CUST-4279,Veronica Sanchez,Consumer,United States,Williamview,New Jersey,East,PROD-27790,Office Supplies,Paper,A4 Paper Pack,1941.91,8,-6.69,No,Credit Card
+WM-100123,2025-09-05,2025-09-12,First Class,CUST-5914,Sherry Shields,Consumer,United States,South James,Georgia,South,PROD-93584,Office Supplies,Paper,A4 Paper Pack,1711.18,6,343.14,Yes,Debit Card
+WM-100124,2025-02-15,2025-02-17,Same Day,CUST-3126,Katie Hoover,Home Office,United States,Kendrachester,Illinois,Central,PROD-21300,Furniture,Chairs,Office Chair,1980.13,1,123.57,No,Credit Card
+WM-100125,2025-08-21,2025-08-26,Second Class,CUST-6194,Mrs. Brittany Ryan MD,Home Office,United States,Jessicashire,Michigan,Central,PROD-19720,Office Supplies,Storage,File Organizer,1038.77,7,280.99,Yes,UPI
+WM-100126,2026-04-03,2026-04-10,Standard Class,CUST-9488,Michael Armstrong,Consumer,United States,Gibsonmouth,North Carolina,South,PROD-49862,Furniture,Bookcases,Wooden Bookcase,2416.34,7,305.16,Yes,Debit Card
+WM-100127,2024-06-30,2024-07-05,Second Class,CUST-5961,John Mcintyre,Home Office,United States,Port Kimberly,Pennsylvania,East,PROD-79924,Office Supplies,Binders,Heavy Duty Binder,2239.42,2,28.6,No,Credit Card
+WM-100128,2025-06-16,2025-06-23,Standard Class,CUST-1744,Beth Sanford,Home Office,United States,Hughesberg,Massachusetts,East,PROD-85598,Furniture,Bookcases,Metal Bookcase,2311.35,1,627.2,Yes,Cash on Delivery
+WM-100129,2024-08-13,2024-08-17,Same Day,CUST-5012,Joyce Bowen,Home Office,United States,Mollymouth,New Jersey,East,PROD-63227,Office Supplies,Storage,Storage Box,2224.71,9,67.52,No,Cash on Delivery
+WM-100130,2024-07-25,2024-07-29,First Class,CUST-6231,Wayne Morgan,Home Office,United States,Pittsberg,Florida,South,PROD-55268,Office Supplies,Binders,Ring Binder,1050.74,8,-8.61,No,UPI
+WM-100131,2026-03-21,2026-03-24,Second Class,CUST-2586,Kimberly Finley,Consumer,United States,Santosmouth,Pennsylvania,East,PROD-48038,Office Supplies,Storage,Storage Box,619.51,2,12.61,No,UPI
+WM-100132,2025-09-19,2025-09-25,Same Day,CUST-6055,Mark Mccall,Corporate,United States,Brennanton,Georgia,South,PROD-13037,Furniture,Tables,Study Table,795.53,3,98.82,No,Credit Card
+WM-100133,2024-08-12,2024-08-15,First Class,CUST-9793,Michele Garcia,Consumer,United States,Lake Christopher,Virginia,South,PROD-24089,Furniture,Chairs,Executive Chair,140.67,5,17.26,No,UPI
+WM-100134,2024-06-19,2024-06-22,First Class,CUST-5728,Robert Carter,Consumer,United States,Lake Kevin,Pennsylvania,East,PROD-60639,Office Supplies,Paper,Sticky Notes,132.2,1,20.71,No,Net Banking
+WM-100135,2025-07-14,2025-07-16,First Class,CUST-3363,Michael White,Consumer,United States,Ryanbury,North Carolina,South,PROD-88966,Office Supplies,Storage,Storage Box,2438.21,7,165.65,No,Net Banking
+WM-100136,2025-03-21,2025-03-27,Second Class,CUST-6373,Cynthia Durham,Home Office,United States,North Chelsea,Florida,South,PROD-51750,Furniture,Chairs,Office Chair,845.94,8,113.1,No,Debit Card
+WM-100137,2024-12-11,2024-12-17,First Class,CUST-2795,Michael Nolan,Corporate,United States,East Steven,North Carolina,South,PROD-86507,Office Supplies,Paper,Sticky Notes,1416.05,8,378.21,No,Cash on Delivery
+WM-100138,2024-09-27,2024-10-03,Second Class,CUST-4968,Tony Huerta,Consumer,United States,Santanaside,Nevada,West,PROD-85047,Technology,Copiers,HP Copier,147.36,8,-3.43,No,Credit Card
+WM-100139,2025-11-15,2025-11-17,Standard Class,CUST-3262,Ryan Gonzalez,Home Office,United States,Daniellechester,New York,East,PROD-37176,Technology,Accessories,USB-C Hub,1044.14,4,88.41,No,Net Banking
+WM-100140,2024-11-28,2024-11-30,First Class,CUST-8932,Ian Phillips,Consumer,United States,Castanedaville,Michigan,Central,PROD-42311,Office Supplies,Paper,Sticky Notes,1159.97,9,62.69,No,Cash on Delivery
+WM-100141,2024-12-27,2024-12-29,First Class,CUST-5715,Sean Osborne,Consumer,United States,Andrewfurt,Illinois,Central,PROD-85166,Technology,Accessories,Laptop Sleeve,1731.79,8,73.89,No,Net Banking
+WM-100142,2026-01-20,2026-01-21,First Class,CUST-8849,Lisa Gomez,Consumer,United States,New Julieport,Virginia,South,PROD-36485,Technology,Phones,Samsung Galaxy S24,733.32,2,40.97,No,Net Banking
+WM-100143,2026-01-04,2026-01-10,Second Class,CUST-1860,Mary Massey,Consumer,United States,New John,Ohio,Central,PROD-64172,Furniture,Chairs,Executive Chair,1475.34,4,-113.83,No,Cash on Delivery
+WM-100144,2026-01-30,2026-02-04,Same Day,CUST-4267,Kevin Oconnor,Corporate,United States,Lake Debbieport,Florida,South,PROD-52096,Office Supplies,Binders,Ring Binder,2445.22,3,203.22,No,Cash on Delivery
+WM-100145,2024-10-11,2024-10-16,Same Day,CUST-3880,Richard Walter,Consumer,United States,West Markchester,California,West,PROD-62034,Office Supplies,Storage,Storage Box,1851.94,1,575.87,No,UPI
+WM-100146,2026-03-04,2026-03-09,Second Class,CUST-9261,Thomas Raymond,Corporate,United States,Alyssaview,Pennsylvania,East,PROD-45761,Furniture,Chairs,Gaming Chair,1514.9,6,42.5,No,Debit Card
+WM-100147,2026-02-11,2026-02-17,First Class,CUST-4164,Victor Taylor,Consumer,United States,Juliemouth,Oregon,West,PROD-90079,Furniture,Bookcases,Metal Bookcase,658.02,3,-61.63,No,UPI
+WM-100148,2025-11-02,2025-11-03,Standard Class,CUST-5272,Tracy Ballard,Corporate,United States,Port Erica,North Carolina,South,PROD-40870,Furniture,Tables,Study Table,478.26,3,54.93,No,UPI
+WM-100149,2024-06-07,2024-06-10,Same Day,CUST-6026,Caleb Richardson,Consumer,United States,Christopherfurt,Ohio,Central,PROD-63138,Technology,Copiers,HP Copier,1641.13,4,-118.23,Yes,Net Banking
+WM-100150,2024-08-20,2024-08-25,First Class,CUST-7813,Kaitlyn Harvey,Home Office,United States,Brendastad,Texas,Central,PROD-81989,Office Supplies,Paper,Sticky Notes,567.71,3,65.39,No,UPI
+WM-100151,2025-10-13,2025-10-18,Standard Class,CUST-9972,Rodney Blankenship,Home Office,United States,Rosebury,Massachusetts,East,PROD-36497,Office Supplies,Storage,Storage Box,1127.93,6,-73.15,Yes,Net Banking
+WM-100152,2024-09-13,2024-09-14,Standard Class,CUST-8429,Andrew Ferrell,Consumer,United States,Debraville,Massachusetts,East,PROD-77272,Technology,Copiers,Canon Copier,1707.13,10,204.81,No,UPI
+WM-100153,2024-09-10,2024-09-16,Standard Class,CUST-1742,Jacob Avery,Corporate,United States,North Jimmyside,Florida,South,PROD-55158,Office Supplies,Paper,Sticky Notes,73.99,5,19.79,No,Credit Card
+WM-100154,2026-04-15,2026-04-19,First Class,CUST-7266,Brett Burns,Corporate,United States,Matthewsberg,California,West,PROD-59479,Technology,Phones,Samsung Galaxy S24,466.35,3,114.08,No,UPI
+WM-100155,2024-06-22,2024-06-24,Standard Class,CUST-1372,Claudia Wallace,Corporate,United States,Crosbyview,Washington,West,PROD-70686,Office Supplies,Paper,A4 Paper Pack,2482.26,7,342.5,No,Net Banking
+WM-100156,2025-11-11,2025-11-14,Standard Class,CUST-7868,Steven Newman,Home Office,United States,Port Michael,Virginia,South,PROD-12050,Furniture,Chairs,Gaming Chair,404.7,4,130.25,Yes,Debit Card
+WM-100157,2026-03-17,2026-03-21,Same Day,CUST-8191,Anna Lewis,Consumer,United States,South Joshuaville,New York,East,PROD-80747,Furniture,Bookcases,Wooden Bookcase,1502.51,1,15.22,Yes,Debit Card
+WM-100158,2024-09-02,2024-09-09,Second Class,CUST-5944,Christine Gallegos,Consumer,United States,North Kristinbury,Washington,West,PROD-96535,Office Supplies,Paper,A4 Paper Pack,2292.66,10,99.75,No,Net Banking
+WM-100159,2026-04-03,2026-04-08,Same Day,CUST-1768,Raymond Kramer,Corporate,United States,New Jason,New Jersey,East,PROD-94320,Technology,Accessories,Wireless Mouse,2372.33,3,431.05,No,UPI
+WM-100160,2024-09-05,2024-09-09,First Class,CUST-3365,Rebecca Rodriguez,Corporate,United States,West Micheleberg,Michigan,Central,PROD-17552,Technology,Phones,Samsung Galaxy S24,476.02,9,53.83,No,Net Banking
+WM-100161,2025-08-28,2025-09-01,Same Day,CUST-7079,Christopher Williams,Consumer,United States,East Alexisbury,Virginia,South,PROD-80206,Office Supplies,Storage,Storage Box,622.29,4,30.25,Yes,Debit Card
+WM-100162,2025-06-01,2025-06-08,Same Day,CUST-4422,Ivan Wheeler,Corporate,United States,Foxland,Oregon,West,PROD-49739,Technology,Copiers,HP Copier,200.51,10,45.3,No,Credit Card
+WM-100163,2025-12-13,2025-12-15,First Class,CUST-5637,Sharon Boyd,Corporate,United States,Gordonton,Massachusetts,East,PROD-71112,Office Supplies,Binders,Heavy Duty Binder,1745.15,4,136.97,No,Net Banking
+WM-100164,2024-07-14,2024-07-18,Second Class,CUST-7073,Dr. Jessica Rodriguez DDS,Corporate,United States,Schneidertown,Ohio,Central,PROD-64254,Technology,Accessories,Laptop Sleeve,1175.69,8,285.38,No,Credit Card
+WM-100165,2025-02-02,2025-02-07,First Class,CUST-4768,Ana Hill,Corporate,United States,Jonesland,Massachusetts,East,PROD-84683,Furniture,Tables,Study Table,1456.27,7,47.82,No,Debit Card
+WM-100166,2025-01-12,2025-01-18,Second Class,CUST-3293,Larry Garcia,Home Office,United States,Oscarhaven,North Carolina,South,PROD-81636,Technology,Accessories,Laptop Sleeve,1854.19,8,-45.05,No,UPI
+WM-100167,2025-12-08,2025-12-15,Standard Class,CUST-3474,Jessica Beasley,Consumer,United States,Port Dianaside,New York,East,PROD-38668,Office Supplies,Binders,Ring Binder,1677.17,1,143.53,No,Net Banking
+WM-100168,2025-04-02,2025-04-08,Standard Class,CUST-1274,Brandon Simmons,Home Office,United States,Morganmouth,North Carolina,South,PROD-46010,Furniture,Bookcases,Metal Bookcase,1229.88,1,171.56,No,Net Banking
+WM-100169,2025-11-12,2025-11-19,Second Class,CUST-4948,Andrea Decker,Consumer,United States,Nicholasberg,Texas,Central,PROD-91235,Office Supplies,Storage,File Organizer,2350.49,3,-121.86,Yes,Net Banking
+WM-100170,2026-02-17,2026-02-20,First Class,CUST-2320,Anthony Frye,Home Office,United States,South Colinstad,Ohio,Central,PROD-95182,Technology,Accessories,Wireless Mouse,2399.06,8,370.06,No,Credit Card
+WM-100171,2025-02-26,2025-03-02,Same Day,CUST-8109,Teresa Henderson,Home Office,United States,Elizabethchester,Nevada,West,PROD-53420,Technology,Accessories,Laptop Sleeve,159.17,1,34.43,Yes,Net Banking
+WM-100172,2024-08-16,2024-08-21,Standard Class,CUST-3938,Christy Douglas,Corporate,United States,West Carolinestad,California,West,PROD-12052,Furniture,Chairs,Executive Chair,1199.24,1,378.81,No,Debit Card
+WM-100173,2026-03-15,2026-03-20,Same Day,CUST-3292,Ashley Ramirez,Home Office,United States,Port Daniel,New Jersey,East,PROD-20279,Furniture,Tables,Dining Table,616.37,7,126.15,No,Net Banking
+WM-100174,2025-08-06,2025-08-13,First Class,CUST-1485,Sabrina Austin,Home Office,United States,Port Roy,Texas,Central,PROD-45825,Furniture,Tables,Dining Table,208.53,10,51.31,No,UPI
+WM-100175,2024-06-19,2024-06-23,First Class,CUST-5037,Michael Parker,Home Office,United States,New Sarahview,Georgia,South,PROD-19634,Technology,Copiers,Canon Copier,480.63,10,94.83,Yes,Credit Card
+WM-100176,2026-04-03,2026-04-09,First Class,CUST-8286,Matthew Jones,Corporate,United States,Michaelburgh,Illinois,Central,PROD-45358,Technology,Copiers,HP Copier,986.26,6,-51.34,Yes,Credit Card
+WM-100177,2025-03-16,2025-03-21,First Class,CUST-2524,Glen Wood,Home Office,United States,North Julieborough,New York,East,PROD-88386,Furniture,Tables,Coffee Table,1395.76,7,-74.7,Yes,Cash on Delivery
+WM-100178,2025-09-03,2025-09-10,Second Class,CUST-7237,Anthony Moore,Consumer,United States,Kimberlyshire,Florida,South,PROD-28198,Technology,Accessories,USB-C Hub,230.05,9,70.7,No,Cash on Delivery
+WM-100179,2025-10-24,2025-10-26,First Class,CUST-5123,Lawrence Perry,Consumer,United States,Lake Christophermouth,Ohio,Central,PROD-91924,Technology,Phones,iPhone 15,1098,7,38.31,Yes,UPI
+WM-100180,2025-02-20,2025-02-21,First Class,CUST-8212,Douglas Gregory,Corporate,United States,Port William,New Jersey,East,PROD-66441,Furniture,Chairs,Gaming Chair,2373.08,6,661.44,No,Net Banking
+WM-100181,2024-07-02,2024-07-06,Same Day,CUST-4971,William Brown,Corporate,United States,Roseport,Pennsylvania,East,PROD-59290,Technology,Copiers,HP Copier,799.17,7,268.46,No,Cash on Delivery
+WM-100182,2026-01-14,2026-01-19,Same Day,CUST-4434,David Murphy,Corporate,United States,West Sierra,North Carolina,South,PROD-48185,Furniture,Bookcases,Wooden Bookcase,2493.22,3,515.52,Yes,Credit Card
+WM-100183,2024-09-05,2024-09-07,Standard Class,CUST-8357,Michael Mason,Home Office,United States,South Julieburgh,Virginia,South,PROD-72814,Furniture,Bookcases,Metal Bookcase,646.65,3,143.46,No,Net Banking
+WM-100184,2025-05-01,2025-05-07,Standard Class,CUST-5067,Thomas Atkins,Home Office,United States,Charleston,Virginia,South,PROD-97122,Office Supplies,Binders,Heavy Duty Binder,2240.84,9,374.71,Yes,Cash on Delivery
+WM-100185,2025-01-07,2025-01-14,First Class,CUST-4637,Alex Nguyen,Home Office,United States,Berrychester,New York,East,PROD-77999,Office Supplies,Storage,File Organizer,842.36,7,-44.08,Yes,Net Banking
+WM-100186,2024-08-04,2024-08-11,Same Day,CUST-2712,Brian Graham,Corporate,United States,Collierstad,New Jersey,East,PROD-64522,Technology,Accessories,USB-C Hub,1705.3,9,-54.85,Yes,Credit Card
+WM-100187,2026-04-04,2026-04-08,Standard Class,CUST-8178,Gerald Cook,Home Office,United States,Warrenfurt,Washington,West,PROD-69303,Technology,Accessories,USB-C Hub,1964.99,9,230.53,No,Cash on Delivery
+WM-100188,2024-08-24,2024-08-25,Second Class,CUST-9454,Cheyenne Parsons,Consumer,United States,North William,Oregon,West,PROD-82339,Furniture,Bookcases,Wooden Bookcase,2125.97,2,435.21,No,Debit Card
+WM-100189,2024-11-27,2024-12-03,Same Day,CUST-8037,David Thompson,Corporate,United States,Jessicaberg,Michigan,Central,PROD-10583,Technology,Phones,Samsung Galaxy S24,477.44,7,37.25,No,Debit Card
+WM-100190,2024-07-25,2024-08-01,Same Day,CUST-2867,Raymond Snyder,Corporate,United States,Port Katherine,Pennsylvania,East,PROD-97910,Office Supplies,Binders,Ring Binder,2182.51,3,141.01,No,UPI
+WM-100191,2025-10-09,2025-10-12,Standard Class,CUST-3194,Lori Lin,Corporate,United States,Maldonadoshire,Michigan,Central,PROD-25448,Office Supplies,Paper,A4 Paper Pack,892.92,8,158.77,No,Debit Card
+WM-100192,2025-05-27,2025-05-29,Same Day,CUST-4043,Eric Hill,Corporate,United States,Edwardland,Texas,Central,PROD-93296,Furniture,Tables,Study Table,1286.85,7,216.69,No,Net Banking
+WM-100193,2025-05-21,2025-05-23,Standard Class,CUST-8939,Anthony Decker,Consumer,United States,West Williamport,Massachusetts,East,PROD-35575,Technology,Accessories,Wireless Mouse,800.16,8,143.02,No,UPI
+WM-100194,2025-09-17,2025-09-23,Second Class,CUST-5785,Janice Carpenter,Consumer,United States,Lake Michelleland,Virginia,South,PROD-46025,Office Supplies,Paper,Sticky Notes,2102.93,8,-52.02,Yes,Debit Card
+WM-100195,2025-10-16,2025-10-21,Standard Class,CUST-8231,Larry Mason,Home Office,United States,South Reginashire,Illinois,Central,PROD-38644,Technology,Copiers,Canon Copier,1286.8,10,-62.55,No,UPI
+WM-100196,2025-12-03,2025-12-06,Second Class,CUST-4438,Matthew Williams,Home Office,United States,South Dalemouth,Washington,West,PROD-87060,Technology,Phones,Samsung Galaxy S24,884.47,2,86.31,Yes,Cash on Delivery
+WM-100197,2025-07-08,2025-07-15,Second Class,CUST-6302,Helen Hardin,Home Office,United States,Ritterhaven,Georgia,South,PROD-48356,Office Supplies,Binders,Ring Binder,533.22,1,83.47,No,Cash on Delivery
+WM-100198,2025-11-06,2025-11-09,Second Class,CUST-3396,Rachel Holland,Home Office,United States,Ortizmouth,Texas,Central,PROD-52217,Furniture,Tables,Dining Table,2170.28,3,468,No,Debit Card
+WM-100199,2025-01-03,2025-01-09,Same Day,CUST-9447,Samuel Brandt,Home Office,United States,West Codyfurt,Virginia,South,PROD-46467,Furniture,Bookcases,Metal Bookcase,1047.28,8,-69.14,Yes,Cash on Delivery
+WM-100200,2025-10-25,2025-11-01,First Class,CUST-2037,Gregory Ponce,Home Office,United States,West Christopher,Virginia,South,PROD-62129,Technology,Copiers,HP Copier,1939.86,2,444.07,No,Debit Card
+WM-100201,2025-01-23,2025-01-30,First Class,CUST-1793,Maria Murphy,Consumer,United States,Andersonland,Georgia,South,PROD-23051,Technology,Accessories,USB-C Hub,723.31,9,115.78,No,UPI
+WM-100202,2025-12-22,2025-12-23,First Class,CUST-3604,Susan Davis DDS,Corporate,United States,Lake Jacqueline,California,West,PROD-22234,Furniture,Tables,Coffee Table,2479.76,7,-22.21,No,Cash on Delivery
+WM-100203,2024-10-15,2024-10-16,Same Day,CUST-2494,Gloria Miranda,Home Office,United States,Andrewport,Texas,Central,PROD-22475,Technology,Copiers,HP Copier,1002.93,5,227.36,No,Credit Card
+WM-100204,2024-09-25,2024-09-27,Standard Class,CUST-7919,Ryan Garcia,Home Office,United States,East Zoe,New Jersey,East,PROD-27324,Furniture,Chairs,Executive Chair,1308.22,8,-125.35,No,UPI
+WM-100205,2025-09-03,2025-09-10,Second Class,CUST-7270,Christopher Guerra,Consumer,United States,Lake Matthewberg,Washington,West,PROD-94092,Technology,Phones,Google Pixel 8,274.02,6,17.92,No,Debit Card
+WM-100206,2025-04-12,2025-04-16,Same Day,CUST-8248,Nathan Montes,Consumer,United States,Lake Samuel,California,West,PROD-21362,Office Supplies,Storage,Storage Box,890.95,4,162.72,No,Credit Card
+WM-100207,2024-11-25,2024-11-28,First Class,CUST-2380,Emily Stokes,Consumer,United States,Karenmouth,New York,East,PROD-82534,Office Supplies,Storage,File Organizer,2408.86,6,616.63,No,Net Banking
+WM-100208,2025-03-09,2025-03-14,Standard Class,CUST-4921,Laura Alexander,Corporate,United States,Mckeeborough,Texas,Central,PROD-60578,Office Supplies,Paper,A4 Paper Pack,1525.18,4,360.75,No,Credit Card
+WM-100209,2025-07-11,2025-07-16,Second Class,CUST-7337,Christopher Gonzalez,Home Office,United States,Kimberlyhaven,New Jersey,East,PROD-65163,Office Supplies,Storage,Storage Box,2224.04,1,765.29,No,Cash on Delivery
+WM-100210,2025-10-08,2025-10-09,Same Day,CUST-9300,Mr. Timothy Dawson,Corporate,United States,Port John,New Jersey,East,PROD-92388,Furniture,Chairs,Executive Chair,54.21,4,-4.45,Yes,Net Banking
+WM-100211,2024-12-25,2024-12-31,First Class,CUST-2294,Jose Guerra,Home Office,United States,West Christopherburgh,Virginia,South,PROD-36633,Office Supplies,Paper,A4 Paper Pack,1350.68,10,-42.27,Yes,Debit Card
+WM-100212,2026-05-20,2026-05-23,Same Day,CUST-2900,Anthony Shaw,Corporate,United States,East Lisastad,Michigan,Central,PROD-90254,Office Supplies,Storage,Storage Box,1752.72,4,-129.6,Yes,Net Banking
+WM-100213,2025-03-15,2025-03-16,Same Day,CUST-6680,Fernando Garcia,Home Office,United States,South Virginia,Oregon,West,PROD-77793,Office Supplies,Storage,Storage Box,51.41,3,11.09,No,Cash on Delivery
+WM-100214,2024-06-26,2024-07-02,First Class,CUST-9582,Ronald Horton,Consumer,United States,Laceyberg,Pennsylvania,East,PROD-44465,Furniture,Bookcases,Metal Bookcase,2218.31,1,112.59,No,Net Banking
+WM-100215,2025-05-11,2025-05-12,First Class,CUST-2685,Susan Smith,Home Office,United States,Port Janice,Nevada,West,PROD-98358,Technology,Copiers,Canon Copier,1259.03,10,-31.35,No,Credit Card
+WM-100216,2026-05-28,2026-05-29,Standard Class,CUST-7870,Kelsey Rodriguez,Consumer,United States,Port Edward,New York,East,PROD-52179,Furniture,Chairs,Office Chair,1189.98,7,373.78,No,Debit Card
+WM-100217,2024-07-04,2024-07-07,Same Day,CUST-2129,Mark Dean,Corporate,United States,Johnville,North Carolina,South,PROD-47002,Technology,Phones,Google Pixel 8,316.11,1,-6.1,Yes,Cash on Delivery
+WM-100218,2025-09-03,2025-09-06,Same Day,CUST-7033,Lynn Andrews,Home Office,United States,North Maryfort,Texas,Central,PROD-74665,Office Supplies,Paper,A4 Paper Pack,517.66,10,130.98,No,Debit Card
+WM-100219,2025-09-17,2025-09-19,Same Day,CUST-6038,Kenneth Lopez,Consumer,United States,West Ruben,Massachusetts,East,PROD-36895,Furniture,Tables,Dining Table,1363.03,1,447,Yes,Net Banking
+WM-100220,2025-07-10,2025-07-16,First Class,CUST-8511,Rachel Romero,Home Office,United States,New Theresaland,New Jersey,East,PROD-21128,Technology,Phones,iPhone 15,713.97,1,224.6,No,Net Banking
+WM-100221,2025-10-03,2025-10-08,Second Class,CUST-5778,James Burgess,Corporate,United States,South Morganton,Washington,West,PROD-51288,Office Supplies,Paper,A4 Paper Pack,1428.2,7,282.93,No,UPI
+WM-100222,2024-12-01,2024-12-02,Second Class,CUST-2731,Lori Ingram,Consumer,United States,Kristinastad,Ohio,Central,PROD-68925,Technology,Accessories,Wireless Mouse,2360.02,3,592.3,Yes,UPI
+WM-100223,2025-07-26,2025-08-02,Standard Class,CUST-3582,Marvin Greer,Home Office,United States,Dennisstad,Michigan,Central,PROD-49874,Furniture,Bookcases,Metal Bookcase,534.94,5,58.04,Yes,Net Banking
+WM-100224,2025-09-30,2025-10-06,First Class,CUST-5262,Chad Baldwin,Consumer,United States,Pollardfort,Washington,West,PROD-14073,Technology,Phones,iPhone 15,635.58,6,49.77,Yes,UPI
+WM-100225,2024-07-01,2024-07-08,Second Class,CUST-4246,Stacey Stewart,Corporate,United States,Johnsonborough,Georgia,South,PROD-58790,Furniture,Tables,Dining Table,1988.65,2,-188.16,No,Credit Card
+WM-100226,2025-05-30,2025-06-05,Standard Class,CUST-1699,Paul Lee,Corporate,United States,Zacharyside,Texas,Central,PROD-16637,Furniture,Chairs,Office Chair,1119.71,3,-65.63,No,Debit Card
+WM-100227,2026-03-31,2026-04-06,First Class,CUST-5585,Denise Lloyd,Corporate,United States,Michelleton,Virginia,South,PROD-29481,Technology,Phones,Samsung Galaxy S24,1078.13,6,-3.64,No,Credit Card
+WM-100228,2026-04-22,2026-04-26,Second Class,CUST-9614,Gina Lopez,Consumer,United States,Prestonmouth,Pennsylvania,East,PROD-92674,Technology,Accessories,Laptop Sleeve,171.23,5,12.39,No,Net Banking
+WM-100229,2024-12-21,2024-12-26,Same Day,CUST-5430,Monica Miller,Consumer,United States,Richardsonhaven,Nevada,West,PROD-13416,Office Supplies,Paper,Sticky Notes,1957.96,6,608.35,No,Cash on Delivery
+WM-100230,2024-08-15,2024-08-20,Standard Class,CUST-5060,Matthew Parker,Home Office,United States,New Kelly,New York,East,PROD-41608,Technology,Phones,Samsung Galaxy S24,906.43,10,317.09,No,Cash on Delivery
+WM-100231,2025-02-25,2025-03-04,First Class,CUST-1462,Nicholas Buck,Home Office,United States,Jacksonmouth,Washington,West,PROD-56095,Office Supplies,Paper,Sticky Notes,2479.02,3,-51.45,No,Net Banking
+WM-100232,2024-07-25,2024-07-27,Standard Class,CUST-9625,Jennifer Palmer,Corporate,United States,Hillton,Massachusetts,East,PROD-10089,Technology,Copiers,Canon Copier,1236.28,2,-92.38,No,Cash on Delivery
+WM-100233,2025-09-11,2025-09-18,Second Class,CUST-2817,Jessica Martinez,Home Office,United States,North Douglas,Massachusetts,East,PROD-57826,Technology,Copiers,HP Copier,2113.82,6,-154.73,No,Credit Card
+WM-100234,2025-03-05,2025-03-08,Same Day,CUST-6198,Keith Jacobs,Consumer,United States,Port Deanna,Michigan,Central,PROD-83659,Office Supplies,Binders,Heavy Duty Binder,820.06,3,188.25,No,Net Banking
+WM-100235,2025-05-07,2025-05-11,Same Day,CUST-1530,Laura Moreno,Consumer,United States,Rushstad,Illinois,Central,PROD-88956,Office Supplies,Storage,Storage Box,780.92,5,-33.34,Yes,Cash on Delivery
+WM-100236,2024-12-07,2024-12-13,Standard Class,CUST-6500,Allison Lopez,Corporate,United States,Edwardsview,New York,East,PROD-11493,Technology,Phones,Samsung Galaxy S24,212.96,6,72.85,No,Cash on Delivery
+WM-100237,2024-12-17,2024-12-20,Same Day,CUST-3725,Michele Lewis,Corporate,United States,Mcintyreville,Massachusetts,East,PROD-74629,Office Supplies,Binders,Heavy Duty Binder,1971.81,1,-154.46,No,UPI
+WM-100238,2024-10-30,2024-11-05,Standard Class,CUST-5831,Samuel Hayes,Consumer,United States,Heatherfort,Michigan,Central,PROD-51774,Furniture,Tables,Study Table,1900.44,4,-50.94,Yes,Cash on Delivery
+WM-100239,2025-10-28,2025-10-30,First Class,CUST-8909,Austin Daniels,Home Office,United States,Osbornmouth,California,West,PROD-14062,Technology,Phones,Samsung Galaxy S24,1835.32,9,594.32,Yes,UPI
+WM-100240,2026-02-03,2026-02-06,First Class,CUST-5872,Danny Galloway,Consumer,United States,Melissaburgh,New Jersey,East,PROD-22571,Furniture,Chairs,Office Chair,529.77,4,44.59,No,Credit Card
+WM-100241,2024-06-17,2024-06-18,Second Class,CUST-2589,Kenneth Mcdonald,Consumer,United States,East Kristy,Virginia,South,PROD-37125,Furniture,Chairs,Gaming Chair,1080.46,5,292.54,No,Debit Card
+WM-100242,2024-07-18,2024-07-25,Standard Class,CUST-9914,Zachary Higgins,Corporate,United States,New Nicole,Texas,Central,PROD-34232,Technology,Phones,Samsung Galaxy S24,1005.72,8,304.43,No,Cash on Delivery
+WM-100243,2024-07-24,2024-07-27,Standard Class,CUST-3476,Evan Jones,Home Office,United States,Hammondshire,North Carolina,South,PROD-97486,Furniture,Tables,Dining Table,1110.56,5,2.01,No,Credit Card
+WM-100244,2024-09-04,2024-09-09,Same Day,CUST-4860,Penny Bowman,Corporate,United States,Frazierstad,Oregon,West,PROD-49171,Office Supplies,Paper,A4 Paper Pack,171.24,7,45.94,No,Credit Card
+WM-100245,2025-04-29,2025-04-30,Second Class,CUST-4157,Sheena Guerra,Consumer,United States,Port Tammy,Florida,South,PROD-15593,Office Supplies,Storage,Storage Box,2374.15,8,-52.72,No,UPI
+WM-100246,2025-02-02,2025-02-09,Standard Class,CUST-7358,Courtney Meza,Home Office,United States,West Fred,Nevada,West,PROD-62082,Furniture,Bookcases,Wooden Bookcase,1495.72,6,463.47,Yes,Net Banking
+WM-100247,2024-10-27,2024-11-03,Standard Class,CUST-7790,Krista Martinez,Consumer,United States,Meghanview,Ohio,Central,PROD-29424,Office Supplies,Paper,A4 Paper Pack,1757.02,10,237.47,No,Net Banking
+WM-100248,2025-06-22,2025-06-29,Same Day,CUST-8955,Leslie Carpenter,Home Office,United States,Christinaland,California,West,PROD-89817,Office Supplies,Binders,Heavy Duty Binder,1348.37,6,397.84,No,UPI
+WM-100249,2026-04-28,2026-05-03,Second Class,CUST-1807,Sarah Elliott,Home Office,United States,Lake Claudia,Washington,West,PROD-72287,Technology,Accessories,Wireless Mouse,1529.47,7,-126.25,No,Cash on Delivery
+WM-100250,2024-12-19,2024-12-22,Second Class,CUST-5923,Pamela Butler,Home Office,United States,North Brandonshire,Texas,Central,PROD-68079,Technology,Accessories,USB-C Hub,2110.26,2,712.47,No,Cash on Delivery
+WM-100251,2025-01-07,2025-01-09,Standard Class,CUST-9442,Elizabeth Sanchez,Consumer,United States,South Pamelaside,Michigan,Central,PROD-18600,Office Supplies,Storage,Storage Box,1115.46,7,260.38,No,Cash on Delivery
+WM-100252,2025-11-13,2025-11-15,Standard Class,CUST-8478,Jeffrey Washington,Consumer,United States,Evansland,Georgia,South,PROD-57235,Office Supplies,Storage,Storage Box,498.05,4,137.78,No,Debit Card
+WM-100253,2025-01-25,2025-01-31,Same Day,CUST-3909,Emma Travis,Corporate,United States,West Catherine,Ohio,Central,PROD-86923,Technology,Copiers,Canon Copier,2309.22,1,20.49,No,Net Banking
+WM-100254,2026-01-08,2026-01-15,Second Class,CUST-4511,Justin Flores,Consumer,United States,Theresaberg,Ohio,Central,PROD-94853,Furniture,Tables,Study Table,1728.35,5,-151.49,Yes,Debit Card
+WM-100255,2024-12-06,2024-12-13,Second Class,CUST-1138,Anthony Dougherty,Consumer,United States,Martinezmouth,Pennsylvania,East,PROD-43081,Office Supplies,Paper,A4 Paper Pack,1955.15,1,221.6,No,Net Banking
+WM-100256,2026-02-18,2026-02-22,Standard Class,CUST-1120,Kenneth Edwards,Home Office,United States,Wrightburgh,Ohio,Central,PROD-96816,Technology,Accessories,USB-C Hub,644.96,8,23.2,No,Cash on Delivery
+WM-100257,2025-05-25,2025-05-26,First Class,CUST-5895,Mr. Alexander Landry MD,Consumer,United States,South Wendy,Ohio,Central,PROD-29651,Office Supplies,Binders,Heavy Duty Binder,853.98,5,160.78,No,Net Banking
+WM-100258,2024-07-04,2024-07-10,First Class,CUST-7857,Johnny Khan,Corporate,United States,East Brandy,New York,East,PROD-60891,Office Supplies,Paper,Sticky Notes,367.03,1,71.55,No,Credit Card
+WM-100259,2026-03-17,2026-03-23,First Class,CUST-3785,Cesar Baker,Home Office,United States,Mitchelltown,Pennsylvania,East,PROD-83170,Office Supplies,Storage,Storage Box,1345.9,8,414.45,No,Debit Card
+WM-100260,2024-07-02,2024-07-05,First Class,CUST-2463,Kelly Lee,Consumer,United States,Kathrynstad,Texas,Central,PROD-56567,Technology,Phones,Google Pixel 8,1818.46,9,442.46,No,Debit Card
+WM-100261,2025-05-12,2025-05-17,Same Day,CUST-4187,Diana Hays,Home Office,United States,Charleshaven,Michigan,Central,PROD-25704,Technology,Accessories,USB-C Hub,749.25,2,83.72,Yes,UPI
+WM-100262,2025-03-13,2025-03-15,Second Class,CUST-6183,Gina Mcmillan,Home Office,United States,East Theresafurt,Michigan,Central,PROD-33639,Furniture,Chairs,Office Chair,869.82,10,262.49,No,Credit Card
+WM-100263,2025-04-04,2025-04-10,Second Class,CUST-9021,Amber Taylor,Consumer,United States,East Carrie,North Carolina,South,PROD-26961,Office Supplies,Binders,Heavy Duty Binder,163.87,8,3.78,No,Net Banking
+WM-100264,2025-05-17,2025-05-21,Standard Class,CUST-6279,Steven Taylor,Home Office,United States,Lindahaven,Virginia,South,PROD-34979,Technology,Accessories,USB-C Hub,31.58,9,-0.32,No,Credit Card
+WM-100265,2025-09-01,2025-09-04,Second Class,CUST-2069,Ronald Patel,Consumer,United States,Franciscoport,Washington,West,PROD-49085,Furniture,Bookcases,Metal Bookcase,339.75,7,42.98,No,Cash on Delivery
+WM-100266,2025-03-10,2025-03-13,Second Class,CUST-7609,Brian Butler,Consumer,United States,Thomastown,North Carolina,South,PROD-39939,Technology,Copiers,HP Copier,2490.42,8,153.57,No,Debit Card
+WM-100267,2025-09-03,2025-09-04,Standard Class,CUST-1785,Walter Patton,Home Office,United States,Lauratown,Massachusetts,East,PROD-24170,Office Supplies,Binders,Ring Binder,929.15,1,63.96,No,Credit Card
+WM-100268,2025-06-05,2025-06-06,Standard Class,CUST-5933,Mark Harvey,Corporate,United States,Lake Brett,California,West,PROD-96725,Technology,Accessories,USB-C Hub,1377.26,8,297.27,No,Credit Card
+WM-100269,2024-06-21,2024-06-27,Same Day,CUST-4254,Melody Lee,Home Office,United States,Hernandezbury,Illinois,Central,PROD-36181,Technology,Phones,Google Pixel 8,1551.89,5,-75.57,Yes,Cash on Delivery
+WM-100270,2025-04-13,2025-04-15,First Class,CUST-4842,Jennifer Hampton,Consumer,United States,Edwardsberg,Pennsylvania,East,PROD-11671,Office Supplies,Paper,Sticky Notes,117.73,8,36.46,No,Credit Card
+WM-100271,2025-11-27,2025-11-28,Same Day,CUST-5850,Daniel Nguyen,Corporate,United States,Salaston,Nevada,West,PROD-70853,Furniture,Chairs,Executive Chair,1814.44,2,557.31,No,Credit Card
+WM-100272,2024-10-09,2024-10-16,Standard Class,CUST-1158,Joseph Payne,Consumer,United States,Foxmouth,Washington,West,PROD-96947,Furniture,Tables,Coffee Table,1698.38,7,394.61,Yes,Debit Card
+WM-100273,2024-12-05,2024-12-11,Same Day,CUST-8479,Edwin David,Corporate,United States,Chelseaborough,Ohio,Central,PROD-60556,Technology,Copiers,Canon Copier,250.52,6,-4.44,No,UPI
+WM-100274,2025-11-15,2025-11-21,Same Day,CUST-3969,Emily Bailey,Home Office,United States,Kellieborough,Georgia,South,PROD-59774,Furniture,Chairs,Executive Chair,165.44,3,-8.82,No,Cash on Delivery
+WM-100275,2025-11-04,2025-11-08,Standard Class,CUST-9598,Stephanie Foster,Home Office,United States,Keithshire,Washington,West,PROD-85582,Technology,Accessories,Wireless Mouse,1112.91,2,19.73,No,Net Banking
+WM-100276,2025-01-08,2025-01-12,Second Class,CUST-1894,Tyler Miller,Consumer,United States,Stephanieberg,Pennsylvania,East,PROD-94331,Office Supplies,Storage,Storage Box,1661.05,4,194.12,No,Debit Card
+WM-100277,2024-11-10,2024-11-13,Same Day,CUST-7607,Joshua Fitzpatrick,Consumer,United States,Douglasfort,Virginia,South,PROD-20332,Furniture,Chairs,Gaming Chair,617.41,5,-47.75,No,UPI
+WM-100278,2024-11-29,2024-12-02,Standard Class,CUST-7609,Michael Schmidt,Corporate,United States,Derrickshire,Virginia,South,PROD-14696,Furniture,Tables,Coffee Table,314.39,8,73.99,Yes,Net Banking
+WM-100279,2025-02-08,2025-02-13,Standard Class,CUST-4652,Ashlee Townsend,Corporate,United States,North Craig,California,West,PROD-53512,Office Supplies,Storage,File Organizer,1414.58,8,463.5,No,Net Banking
+WM-100280,2025-04-09,2025-04-10,First Class,CUST-9973,Shirley Alvarez,Home Office,United States,New Tiffanyburgh,North Carolina,South,PROD-59006,Office Supplies,Paper,A4 Paper Pack,1903.11,4,-188.43,No,Credit Card
+WM-100281,2025-02-01,2025-02-07,Second Class,CUST-2978,Anthony Mack,Corporate,United States,Port Tamara,Washington,West,PROD-38257,Technology,Phones,Google Pixel 8,1809.47,2,26.11,No,UPI
+WM-100282,2026-03-19,2026-03-25,Same Day,CUST-9260,Susan Thompson,Consumer,United States,New Joanne,Pennsylvania,East,PROD-75382,Furniture,Tables,Dining Table,2096.92,10,-93.42,No,Credit Card
+WM-100283,2025-04-01,2025-04-07,Same Day,CUST-7859,Charlotte Curry,Home Office,United States,North Wendy,Nevada,West,PROD-42537,Office Supplies,Paper,A4 Paper Pack,1454.81,3,-77.69,No,Cash on Delivery
+WM-100284,2025-01-14,2025-01-16,Second Class,CUST-4291,Ashley Bird,Consumer,United States,Nancytown,North Carolina,South,PROD-91810,Technology,Accessories,Wireless Mouse,1043.61,9,36.02,No,Cash on Delivery
+WM-100285,2025-07-09,2025-07-14,Same Day,CUST-7839,Todd Rosales MD,Home Office,United States,Shawnside,Illinois,Central,PROD-79979,Office Supplies,Storage,Storage Box,1365.38,6,299.92,No,Cash on Delivery
+WM-100286,2024-10-01,2024-10-05,First Class,CUST-5105,Mariah Higgins,Consumer,United States,Port Daniel,Florida,South,PROD-18130,Office Supplies,Binders,Ring Binder,380.41,1,-3.82,No,Cash on Delivery
+WM-100287,2025-08-12,2025-08-17,Second Class,CUST-9370,Cheryl Carr,Home Office,United States,Lake Matthewport,New York,East,PROD-47701,Technology,Accessories,Wireless Mouse,2172.73,9,628.31,No,Credit Card
+WM-100288,2025-02-06,2025-02-11,Second Class,CUST-7025,Michael Lopez,Home Office,United States,Wilcoxhaven,Virginia,South,PROD-81645,Technology,Copiers,Canon Copier,153.43,5,-1.32,No,Net Banking
+WM-100289,2024-12-06,2024-12-12,Same Day,CUST-1665,James Griffin,Corporate,United States,South Marcus,Massachusetts,East,PROD-46583,Technology,Accessories,Wireless Mouse,204.68,3,47.24,Yes,Net Banking
+WM-100290,2025-08-23,2025-08-24,Standard Class,CUST-5934,Alexandra Valdez,Corporate,United States,Stephanieport,Illinois,Central,PROD-85061,Furniture,Bookcases,Metal Bookcase,839.8,3,-68.89,No,Net Banking
+WM-100291,2025-05-24,2025-05-26,Standard Class,CUST-6724,Jared Shaw,Consumer,United States,North Elizabeth,Texas,Central,PROD-37964,Office Supplies,Paper,A4 Paper Pack,1311.1,9,-37.08,No,Cash on Delivery
+WM-100292,2025-03-09,2025-03-14,Standard Class,CUST-6668,Colleen Anderson,Corporate,United States,Hannahport,Ohio,Central,PROD-41502,Technology,Phones,Google Pixel 8,1197.65,9,324.16,Yes,Net Banking
+WM-100293,2025-09-10,2025-09-17,Standard Class,CUST-9468,Michael Durham,Corporate,United States,South Julie,New York,East,PROD-77411,Office Supplies,Paper,Sticky Notes,2363.57,7,36.55,No,Net Banking
+WM-100294,2026-01-04,2026-01-06,Standard Class,CUST-2072,Rachel Fox,Consumer,United States,Port John,Virginia,South,PROD-97862,Furniture,Tables,Study Table,814.38,2,266.05,No,Debit Card
+WM-100295,2024-08-23,2024-08-29,Standard Class,CUST-8523,Joshua Wagner,Home Office,United States,Christianshire,Florida,South,PROD-53478,Furniture,Bookcases,Metal Bookcase,2045.55,2,482.96,No,Credit Card
+WM-100296,2025-07-06,2025-07-11,Same Day,CUST-8391,Michael Love,Home Office,United States,East Mark,California,West,PROD-63011,Furniture,Chairs,Gaming Chair,194.7,4,60.35,No,UPI
+WM-100297,2025-05-09,2025-05-14,Standard Class,CUST-6860,Jody Palmer,Home Office,United States,Davishaven,Texas,Central,PROD-23911,Technology,Copiers,HP Copier,34.63,10,-2.48,Yes,Cash on Delivery
+WM-100298,2025-05-22,2025-05-26,Second Class,CUST-7406,Elizabeth Johnson,Home Office,United States,Elliottside,Texas,Central,PROD-48663,Technology,Accessories,USB-C Hub,2058.86,1,233.26,No,Debit Card
+WM-100299,2025-08-20,2025-08-21,First Class,CUST-4441,Jeff Graves,Home Office,United States,Lisaborough,Ohio,Central,PROD-55069,Furniture,Bookcases,Wooden Bookcase,123.6,10,20.83,Yes,Debit Card
+WM-100300,2024-06-21,2024-06-26,Same Day,CUST-2198,Christopher Taylor,Corporate,United States,North Valeriefort,Georgia,South,PROD-98039,Furniture,Chairs,Office Chair,2090.18,4,-101.21,Yes,Credit Card
+WM-100301,2025-05-11,2025-05-14,Second Class,CUST-6206,Susan Bennett,Corporate,United States,Brooksfurt,Texas,Central,PROD-69067,Furniture,Bookcases,Metal Bookcase,905.7,4,-49.8,Yes,Cash on Delivery
+WM-100302,2024-08-28,2024-09-04,Second Class,CUST-4629,Joshua Rice,Home Office,United States,Lake Michelle,Illinois,Central,PROD-93995,Office Supplies,Storage,File Organizer,804.51,7,-19.4,No,UPI
+WM-100303,2024-06-14,2024-06-18,Standard Class,CUST-3879,Julie Ball,Home Office,United States,Port Adam,Ohio,Central,PROD-89511,Furniture,Bookcases,Metal Bookcase,1167.86,6,290.38,No,Credit Card
+WM-100304,2024-12-06,2024-12-12,Standard Class,CUST-7637,Christopher Lopez,Home Office,United States,Patelbury,Illinois,Central,PROD-37886,Office Supplies,Binders,Heavy Duty Binder,2218.11,2,504.27,Yes,Credit Card
+WM-100305,2025-09-17,2025-09-21,Second Class,CUST-8613,Stacey Smith,Home Office,United States,North Lisachester,Michigan,Central,PROD-76900,Office Supplies,Binders,Heavy Duty Binder,573.8,10,131.95,No,Credit Card
+WM-100306,2024-06-23,2024-06-30,Same Day,CUST-3608,Michael Brennan,Consumer,United States,North Craig,North Carolina,South,PROD-84233,Office Supplies,Binders,Ring Binder,2410.72,10,501.12,No,Net Banking
+WM-100307,2025-05-03,2025-05-10,Standard Class,CUST-4387,Daniel Shields,Home Office,United States,Lake Bradley,New Jersey,East,PROD-57349,Technology,Phones,iPhone 15,1229.35,2,23.31,No,UPI
+WM-100308,2024-11-25,2024-11-28,First Class,CUST-9918,Monique Flores,Home Office,United States,East Williamport,Virginia,South,PROD-32786,Furniture,Chairs,Executive Chair,276,9,51.09,No,UPI
+WM-100309,2025-10-22,2025-10-27,First Class,CUST-8976,Jennifer Hill,Corporate,United States,Joelberg,North Carolina,South,PROD-89195,Office Supplies,Storage,Storage Box,643.93,4,85.24,No,Credit Card
+WM-100310,2025-08-02,2025-08-07,First Class,CUST-2938,William David DDS,Home Office,United States,Lake Erika,New Jersey,East,PROD-40191,Furniture,Chairs,Office Chair,1615.82,4,-52.34,No,UPI
+WM-100311,2024-09-20,2024-09-24,Standard Class,CUST-4992,Clinton Medina,Consumer,United States,Heatherchester,Texas,Central,PROD-26762,Technology,Copiers,Canon Copier,542.55,3,103.77,No,Net Banking
+WM-100312,2026-03-25,2026-03-30,Same Day,CUST-1305,Renee Melendez,Home Office,United States,Port Jeremiah,Massachusetts,East,PROD-96736,Office Supplies,Storage,Storage Box,384.23,3,6.23,No,Cash on Delivery
+WM-100313,2025-07-13,2025-07-20,Second Class,CUST-9369,David Harris,Corporate,United States,Faulknerside,Washington,West,PROD-31983,Technology,Copiers,Canon Copier,1214.54,4,332.38,No,Cash on Delivery
+WM-100314,2025-07-18,2025-07-20,Second Class,CUST-2577,Cheryl Adams,Consumer,United States,South Melanieland,Florida,South,PROD-72373,Furniture,Tables,Coffee Table,289.25,4,39.11,No,Net Banking
+WM-100315,2025-12-11,2025-12-13,Same Day,CUST-7068,Claire Clark,Consumer,United States,Port Charlesshire,California,West,PROD-79444,Furniture,Tables,Study Table,2256.92,9,614.75,No,UPI
+WM-100316,2024-11-08,2024-11-15,First Class,CUST-8817,Tonya Wilson,Consumer,United States,Kevintown,New Jersey,East,PROD-20986,Technology,Accessories,Laptop Sleeve,1858.66,10,-104.14,No,Cash on Delivery
+WM-100317,2025-04-01,2025-04-07,Same Day,CUST-4365,Kristen Rowe,Home Office,United States,Rochaborough,North Carolina,South,PROD-51405,Furniture,Chairs,Executive Chair,1977.77,10,267.28,Yes,UPI
+WM-100318,2025-01-22,2025-01-27,First Class,CUST-7511,Jose Crawford,Consumer,United States,Owensstad,Texas,Central,PROD-64162,Furniture,Tables,Study Table,649.01,9,58.8,No,Net Banking
+WM-100319,2026-01-09,2026-01-12,Second Class,CUST-2951,Suzanne Wood,Home Office,United States,Port Tinafort,Georgia,South,PROD-40116,Technology,Copiers,Canon Copier,2471.5,10,135.83,No,UPI
+WM-100320,2025-12-24,2025-12-31,Second Class,CUST-7375,Dean Donovan,Home Office,United States,Williamsbury,New York,East,PROD-10693,Furniture,Bookcases,Metal Bookcase,859.33,9,151.51,Yes,Credit Card
+WM-100321,2025-02-08,2025-02-09,Same Day,CUST-7564,Kelly Sanchez,Home Office,United States,Phillipsborough,New Jersey,East,PROD-96006,Office Supplies,Paper,A4 Paper Pack,672.47,6,-43.03,Yes,Net Banking
+WM-100322,2025-12-11,2025-12-15,Second Class,CUST-3776,Katherine Jackson,Home Office,United States,Jonathanfort,Texas,Central,PROD-14726,Furniture,Bookcases,Metal Bookcase,46.56,9,1.34,Yes,Cash on Delivery
+WM-100323,2025-06-11,2025-06-18,Standard Class,CUST-2124,Steve Mooney,Consumer,United States,Garyside,New York,East,PROD-82036,Furniture,Chairs,Gaming Chair,1010.6,7,83.33,No,Cash on Delivery
+WM-100324,2026-02-22,2026-02-24,Second Class,CUST-7670,Pamela Gutierrez,Home Office,United States,New Arthurland,Ohio,Central,PROD-23954,Technology,Phones,Google Pixel 8,1147.8,7,182.17,No,Net Banking
+WM-100325,2024-06-04,2024-06-07,Same Day,CUST-8923,Jesus Brown,Consumer,United States,North Jasmine,Oregon,West,PROD-54520,Technology,Phones,Google Pixel 8,2192.76,10,27.55,No,UPI
+WM-100326,2024-06-02,2024-06-03,First Class,CUST-7757,Jennifer Smith,Corporate,United States,Hopkinstown,Florida,South,PROD-77699,Technology,Phones,Samsung Galaxy S24,969.03,4,198.27,No,Net Banking
+WM-100327,2024-06-10,2024-06-14,Same Day,CUST-6142,Melissa Jordan,Corporate,United States,Amandaport,Oregon,West,PROD-38647,Furniture,Tables,Dining Table,1690.77,6,-111.23,No,Net Banking
+WM-100328,2025-07-09,2025-07-13,Second Class,CUST-4755,Corey Fox,Consumer,United States,North Samantha,Illinois,Central,PROD-42728,Office Supplies,Storage,Storage Box,1848.04,4,426.79,No,Net Banking
+WM-100329,2024-07-28,2024-08-03,Same Day,CUST-7081,Jared Cunningham,Home Office,United States,Josephfurt,Illinois,Central,PROD-51342,Furniture,Chairs,Office Chair,2390.33,8,421.23,Yes,UPI
+WM-100330,2026-03-17,2026-03-21,Same Day,CUST-9859,William Santos,Consumer,United States,West Gabriella,Michigan,Central,PROD-75860,Furniture,Bookcases,Metal Bookcase,570.79,10,-24.14,No,Cash on Delivery
+WM-100331,2025-07-31,2025-08-05,Same Day,CUST-2650,Mark Warner,Corporate,United States,North Richardfurt,Georgia,South,PROD-57395,Technology,Phones,Google Pixel 8,1160.98,1,-109.92,No,Net Banking
+WM-100332,2025-08-10,2025-08-13,Same Day,CUST-7945,Valerie Jacobson,Consumer,United States,South Meganmouth,Illinois,Central,PROD-64931,Office Supplies,Paper,A4 Paper Pack,1188.94,10,64.67,No,Cash on Delivery
+WM-100333,2025-06-01,2025-06-06,First Class,CUST-4863,Thomas Cohen,Home Office,United States,East Jasonshire,Michigan,Central,PROD-66651,Technology,Accessories,Wireless Mouse,345.23,10,72.05,Yes,UPI
+WM-100334,2025-10-21,2025-10-28,Same Day,CUST-5915,Timothy Edwards,Corporate,United States,Rachelshire,Massachusetts,East,PROD-83680,Office Supplies,Binders,Heavy Duty Binder,44.16,7,5.51,No,Net Banking
+WM-100335,2026-02-24,2026-02-25,Same Day,CUST-6483,Jennifer Jones,Corporate,United States,New Douglas,Nevada,West,PROD-57312,Furniture,Bookcases,Wooden Bookcase,554.36,5,63.44,Yes,Cash on Delivery
+WM-100336,2026-03-07,2026-03-10,First Class,CUST-6818,Megan Fernandez,Corporate,United States,New John,Ohio,Central,PROD-98236,Furniture,Tables,Dining Table,2171.07,10,-22.73,No,Net Banking
+WM-100337,2026-01-31,2026-02-03,Same Day,CUST-7631,Misty Mason DVM,Consumer,United States,Camposberg,Virginia,South,PROD-20369,Furniture,Tables,Study Table,1170.11,3,340.17,No,Debit Card
+WM-100338,2025-02-16,2025-02-19,Same Day,CUST-6950,Lisa Larson,Home Office,United States,North Samuelland,Illinois,Central,PROD-86928,Technology,Accessories,Laptop Sleeve,1781.88,10,338.72,No,Net Banking
+WM-100339,2026-01-26,2026-01-28,Second Class,CUST-3734,Katherine Kelly DVM,Corporate,United States,Anthonyview,Virginia,South,PROD-23501,Furniture,Chairs,Office Chair,1824.88,5,589.8,Yes,Credit Card
+WM-100340,2025-10-23,2025-10-30,Standard Class,CUST-7387,Raymond Phillips,Corporate,United States,Lopezshire,Nevada,West,PROD-40062,Office Supplies,Binders,Ring Binder,1004.59,2,-53.48,No,Debit Card
+WM-100341,2024-12-22,2024-12-27,First Class,CUST-8801,Michael Walters,Corporate,United States,Lake Charles,Michigan,Central,PROD-80855,Office Supplies,Binders,Ring Binder,2099.52,1,-176.74,No,Cash on Delivery
+WM-100342,2024-08-07,2024-08-12,First Class,CUST-8891,Eric Ward,Home Office,United States,Stewartville,Georgia,South,PROD-39770,Office Supplies,Storage,Storage Box,1502.01,10,143.8,No,Credit Card
+WM-100343,2024-10-20,2024-10-22,First Class,CUST-5698,Justin Hunt,Corporate,United States,Curtisland,North Carolina,South,PROD-80136,Technology,Accessories,USB-C Hub,772.86,1,104.72,No,Credit Card
+WM-100344,2024-08-08,2024-08-15,Second Class,CUST-7745,Rachel Shields,Home Office,United States,North Christopherside,Virginia,South,PROD-67292,Technology,Phones,Samsung Galaxy S24,746.45,4,192.99,No,UPI
+WM-100345,2025-12-12,2025-12-19,First Class,CUST-5664,Susan Spence,Home Office,United States,West Robertland,Massachusetts,East,PROD-79722,Office Supplies,Storage,File Organizer,958.33,5,-61.67,No,Cash on Delivery
+WM-100346,2024-09-12,2024-09-15,Same Day,CUST-4076,Derrick Thomas,Corporate,United States,Lake Oscar,Georgia,South,PROD-12542,Furniture,Chairs,Office Chair,293.68,8,52.27,No,Debit Card
+WM-100347,2025-01-15,2025-01-18,Standard Class,CUST-3468,Mr. David Wright,Consumer,United States,South Joshua,California,West,PROD-74694,Furniture,Chairs,Gaming Chair,330.1,8,75,No,Debit Card
+WM-100348,2025-05-18,2025-05-22,Standard Class,CUST-5366,Eric Rush,Corporate,United States,Wheelerborough,Michigan,Central,PROD-19356,Technology,Accessories,USB-C Hub,1748.4,1,84.99,No,Net Banking
+WM-100349,2026-02-11,2026-02-18,Second Class,CUST-1549,Jessica Jordan,Consumer,United States,Meaganfurt,Georgia,South,PROD-70402,Furniture,Tables,Coffee Table,51.29,4,3.75,No,Credit Card
+WM-100350,2025-11-19,2025-11-22,First Class,CUST-8884,Ernest Oconnell,Home Office,United States,West Malik,New Jersey,East,PROD-49166,Technology,Copiers,Canon Copier,413.36,1,97.19,Yes,Debit Card
+WM-100351,2025-08-18,2025-08-20,Standard Class,CUST-7484,Erika Ramirez,Consumer,United States,Kellyfort,Texas,Central,PROD-11170,Office Supplies,Binders,Ring Binder,1589.61,6,-148.18,No,Credit Card
+WM-100352,2024-10-30,2024-11-01,Standard Class,CUST-6824,Kimberly Maldonado,Home Office,United States,Diazshire,Georgia,South,PROD-30174,Technology,Phones,iPhone 15,1259.8,10,65.87,Yes,Net Banking
+WM-100353,2025-05-03,2025-05-08,Second Class,CUST-1349,Sandra Jones,Home Office,United States,Lake Stevenborough,Washington,West,PROD-59514,Technology,Phones,Samsung Galaxy S24,1975.63,6,518.58,No,Cash on Delivery
+WM-100354,2025-10-01,2025-10-05,Second Class,CUST-9906,David Moore,Corporate,United States,Chambersberg,Pennsylvania,East,PROD-52425,Furniture,Tables,Study Table,1406.38,9,300.5,No,UPI
+WM-100355,2025-05-11,2025-05-15,Standard Class,CUST-9289,Karen Morales DDS,Corporate,United States,Mccormickland,Illinois,Central,PROD-34318,Furniture,Bookcases,Wooden Bookcase,753.27,5,108.26,No,Credit Card
+WM-100356,2025-11-23,2025-11-29,Second Class,CUST-5638,Kimberly Little,Corporate,United States,Stephensstad,Illinois,Central,PROD-63713,Technology,Copiers,HP Copier,2418.56,7,-35.21,No,Cash on Delivery
+WM-100357,2024-10-04,2024-10-05,Second Class,CUST-2753,Amanda Terrell,Corporate,United States,North Kaylastad,California,West,PROD-35115,Office Supplies,Storage,Storage Box,2091.28,3,-41.02,Yes,Credit Card
+WM-100358,2026-02-05,2026-02-06,Second Class,CUST-9051,Adam Green,Consumer,United States,Rasmussenmouth,Nevada,West,PROD-71349,Office Supplies,Paper,Sticky Notes,928.56,10,207.1,Yes,Credit Card
+WM-100359,2025-05-22,2025-05-29,First Class,CUST-2276,Leah Mason,Consumer,United States,South Neil,Michigan,Central,PROD-78089,Technology,Copiers,HP Copier,1549.99,9,-126.64,Yes,Credit Card
+WM-100360,2024-08-17,2024-08-19,Same Day,CUST-2728,Thomas Miller,Home Office,United States,Whitneyfort,Washington,West,PROD-85571,Office Supplies,Paper,A4 Paper Pack,1324.96,4,207.37,No,Cash on Delivery
+WM-100361,2025-05-16,2025-05-21,First Class,CUST-6163,Kelly Bailey,Home Office,United States,West Larry,Virginia,South,PROD-52553,Furniture,Chairs,Office Chair,1015.86,6,199,No,Cash on Delivery
+WM-100362,2025-01-30,2025-02-04,First Class,CUST-8412,Andrew Page,Corporate,United States,South Jennifermouth,Virginia,South,PROD-62047,Office Supplies,Paper,A4 Paper Pack,1373.15,7,335.83,No,Credit Card
+WM-100363,2025-11-04,2025-11-07,Standard Class,CUST-5521,Tara Yang,Home Office,United States,Port Matthewville,Oregon,West,PROD-77013,Office Supplies,Binders,Ring Binder,36.29,4,-0.12,No,Net Banking
+WM-100364,2025-08-05,2025-08-07,Second Class,CUST-5198,Joel Salinas,Corporate,United States,New Ethan,New York,East,PROD-22046,Furniture,Tables,Coffee Table,363.25,6,109.1,No,Net Banking
+WM-100365,2025-04-28,2025-05-05,First Class,CUST-1612,Omar Ware,Home Office,United States,East Danielle,Georgia,South,PROD-85534,Office Supplies,Binders,Heavy Duty Binder,1216.68,8,330.41,Yes,UPI
+WM-100366,2024-05-31,2024-06-04,Standard Class,CUST-7266,Christine Goodwin,Consumer,United States,Vargasfurt,California,West,PROD-49948,Technology,Accessories,USB-C Hub,2327.01,2,678.1,No,Net Banking
+WM-100367,2024-10-20,2024-10-23,Same Day,CUST-9269,Craig Wilson,Consumer,United States,New Cristianside,Oregon,West,PROD-39109,Office Supplies,Storage,Storage Box,1265.96,4,-39.32,No,UPI
+WM-100368,2025-09-03,2025-09-04,Standard Class,CUST-7529,James Wilson,Home Office,United States,Rosemouth,Michigan,Central,PROD-66949,Furniture,Chairs,Gaming Chair,1200.12,1,176.02,No,Debit Card
+WM-100369,2026-02-19,2026-02-23,Second Class,CUST-2173,Rebecca Sellers,Corporate,United States,Meganburgh,New Jersey,East,PROD-66369,Office Supplies,Binders,Heavy Duty Binder,1637.58,4,249.77,No,Cash on Delivery
+WM-100370,2024-11-29,2024-12-02,First Class,CUST-3773,Clayton Steele,Corporate,United States,Lake Dennisville,California,West,PROD-90769,Office Supplies,Paper,Sticky Notes,883.8,6,48.64,Yes,UPI
+WM-100371,2025-08-17,2025-08-23,Second Class,CUST-3419,Cody Reid,Corporate,United States,Barnesberg,New Jersey,East,PROD-11800,Furniture,Chairs,Office Chair,947.08,2,-46.82,Yes,Cash on Delivery
+WM-100372,2025-01-07,2025-01-10,Same Day,CUST-3315,Ernest Hayes,Home Office,United States,New Garrett,Oregon,West,PROD-97590,Technology,Accessories,Wireless Mouse,538.34,9,-2.51,No,Credit Card
+WM-100373,2025-06-08,2025-06-11,Standard Class,CUST-2091,Robert Maynard,Corporate,United States,Port Michaeltown,Florida,South,PROD-96556,Technology,Phones,iPhone 15,517.73,10,11.43,No,Cash on Delivery
+WM-100374,2025-04-15,2025-04-19,First Class,CUST-8940,Jill Jackson,Home Office,United States,Ortizfort,Texas,Central,PROD-79672,Furniture,Tables,Study Table,593.3,7,76.44,Yes,Credit Card
+WM-100375,2024-06-22,2024-06-23,Same Day,CUST-3572,Joshua Jackson,Consumer,United States,Port Kathleenport,Massachusetts,East,PROD-55453,Office Supplies,Paper,A4 Paper Pack,633.53,9,23.58,No,Cash on Delivery
+WM-100376,2025-07-28,2025-08-04,First Class,CUST-4695,Laura Adams,Consumer,United States,Cunninghamfort,Ohio,Central,PROD-54798,Furniture,Bookcases,Metal Bookcase,173.78,5,51.34,Yes,UPI
+WM-100377,2026-01-08,2026-01-12,First Class,CUST-8359,Kimberly Fritz,Home Office,United States,Amberton,New York,East,PROD-27271,Office Supplies,Paper,A4 Paper Pack,616.09,3,56.62,No,Debit Card
+WM-100378,2025-01-14,2025-01-20,Second Class,CUST-6201,Amanda Baker,Consumer,United States,Lake Mariabury,Massachusetts,East,PROD-83051,Furniture,Tables,Study Table,2248.64,3,210.31,No,Net Banking
+WM-100379,2026-01-20,2026-01-21,Same Day,CUST-5485,Christine Rojas,Consumer,United States,South Michelleville,Washington,West,PROD-34632,Technology,Phones,Google Pixel 8,1918.28,7,637.9,No,Credit Card
+WM-100380,2024-10-03,2024-10-08,Standard Class,CUST-6886,Rachel Li,Consumer,United States,Michellechester,Massachusetts,East,PROD-72469,Furniture,Bookcases,Metal Bookcase,1426.27,4,240.13,No,Debit Card
+WM-100381,2025-09-03,2025-09-07,Standard Class,CUST-5421,Erica Padilla,Corporate,United States,New Michaelview,North Carolina,South,PROD-39170,Furniture,Tables,Coffee Table,361.03,4,0.66,No,Debit Card
+WM-100382,2026-04-27,2026-05-01,Same Day,CUST-1685,Anna Estes,Home Office,United States,Ashleyhaven,New York,East,PROD-59856,Furniture,Tables,Study Table,1725.9,8,516.76,No,Cash on Delivery
+WM-100383,2026-04-01,2026-04-05,Same Day,CUST-1643,Meredith Anderson,Home Office,United States,Sellersview,Florida,South,PROD-60777,Office Supplies,Binders,Heavy Duty Binder,2070.99,1,610.94,No,Net Banking
+WM-100384,2024-12-06,2024-12-09,First Class,CUST-1893,Megan Burns,Home Office,United States,Lake Marc,Washington,West,PROD-77760,Technology,Accessories,USB-C Hub,1938.72,5,208.62,No,Debit Card
+WM-100385,2025-05-14,2025-05-16,First Class,CUST-8387,Robert Mack,Consumer,United States,Courtneyfurt,Virginia,South,PROD-33445,Furniture,Bookcases,Wooden Bookcase,1951.25,9,-76.32,No,UPI
+WM-100386,2025-11-18,2025-11-24,Standard Class,CUST-2870,Jackie Clements,Home Office,United States,Robertsonview,New Jersey,East,PROD-68903,Furniture,Tables,Coffee Table,1628.47,3,363.59,Yes,Cash on Delivery
+WM-100387,2025-12-16,2025-12-20,Second Class,CUST-3656,Madison Terry,Consumer,United States,Brandiland,Nevada,West,PROD-33444,Office Supplies,Storage,Storage Box,1384.86,1,340.28,No,Credit Card
+WM-100388,2025-04-26,2025-04-29,Standard Class,CUST-5146,Kathleen Morris,Consumer,United States,Port Amandaborough,North Carolina,South,PROD-70115,Technology,Copiers,Canon Copier,1573.6,2,478.92,No,UPI
+WM-100389,2024-09-06,2024-09-08,Standard Class,CUST-1107,Karina Cooper,Consumer,United States,Matthewshire,Florida,South,PROD-81741,Office Supplies,Paper,A4 Paper Pack,1480.38,8,154.23,No,Cash on Delivery
+WM-100390,2024-06-09,2024-06-15,First Class,CUST-2436,Scott Alexander,Consumer,United States,North Corymouth,New York,East,PROD-24272,Furniture,Chairs,Office Chair,885.57,3,251.7,No,UPI
+WM-100391,2026-04-13,2026-04-17,First Class,CUST-6289,Caitlin Cantu,Corporate,United States,South Jamesberg,Massachusetts,East,PROD-59668,Office Supplies,Paper,A4 Paper Pack,1878.35,6,599.51,Yes,Credit Card
+WM-100392,2024-12-08,2024-12-09,Second Class,CUST-4425,Matthew Banks,Home Office,United States,Clarencestad,Florida,South,PROD-17626,Technology,Accessories,Wireless Mouse,1742.66,5,83.9,No,Credit Card
+WM-100393,2025-04-26,2025-04-30,Second Class,CUST-9132,Michele Smith,Home Office,United States,South Conniebury,Nevada,West,PROD-92818,Office Supplies,Storage,File Organizer,1529.93,6,25.77,No,UPI
+WM-100394,2024-11-19,2024-11-21,Second Class,CUST-7793,Jill Smith,Corporate,United States,Millershire,Georgia,South,PROD-15962,Office Supplies,Binders,Heavy Duty Binder,23.92,1,2.61,Yes,Cash on Delivery
+WM-100395,2025-11-18,2025-11-24,Standard Class,CUST-2865,Benjamin Reyes,Home Office,United States,Lisachester,Illinois,Central,PROD-53684,Furniture,Bookcases,Wooden Bookcase,718.43,2,27.66,No,Cash on Delivery
+WM-100396,2024-09-11,2024-09-18,Second Class,CUST-8888,Robert Baxter,Consumer,United States,North Lawrenceport,Florida,South,PROD-92208,Furniture,Chairs,Gaming Chair,858.08,8,267.96,Yes,UPI
+WM-100397,2024-06-03,2024-06-10,Standard Class,CUST-4412,Carly Bell,Home Office,United States,North Alyssa,Michigan,Central,PROD-99848,Technology,Copiers,HP Copier,1312.26,10,296.88,No,Cash on Delivery
+WM-100398,2026-05-12,2026-05-15,Second Class,CUST-2914,Michael Heath,Corporate,United States,Lake Kaitlin,Texas,Central,PROD-51222,Furniture,Tables,Dining Table,2459.37,9,686.37,No,Credit Card
+WM-100399,2025-08-28,2025-08-31,Second Class,CUST-2838,Heather Jordan,Corporate,United States,North Donaldville,Michigan,Central,PROD-14901,Furniture,Tables,Dining Table,1140.73,5,-3.12,No,Debit Card
+WM-100400,2024-08-01,2024-08-06,First Class,CUST-3347,Kyle Griffith,Consumer,United States,East Joshua,Nevada,West,PROD-77652,Office Supplies,Binders,Heavy Duty Binder,402.11,6,126.92,No,Debit Card
+WM-100401,2026-03-17,2026-03-24,Standard Class,CUST-6460,Sheri Harris,Corporate,United States,Kimberlytown,New York,East,PROD-16047,Technology,Accessories,Laptop Sleeve,1315.42,1,52.54,Yes,Credit Card
+WM-100402,2025-10-11,2025-10-14,Same Day,CUST-2927,Steven Blevins,Corporate,United States,Lake Peter,Texas,Central,PROD-29571,Office Supplies,Paper,A4 Paper Pack,517.38,5,12.67,No,Debit Card
+WM-100403,2025-06-20,2025-06-22,First Class,CUST-5011,Andrea Oneal,Consumer,United States,Cruzbury,Texas,Central,PROD-19337,Furniture,Bookcases,Wooden Bookcase,1365.47,9,59.15,No,Cash on Delivery
+WM-100404,2025-03-24,2025-03-28,Standard Class,CUST-7987,Laura Diaz,Corporate,United States,West Sarahberg,Michigan,Central,PROD-33459,Furniture,Chairs,Office Chair,2260.17,1,-118.28,Yes,Net Banking
+WM-100405,2026-01-16,2026-01-22,Second Class,CUST-2522,Kevin Smith,Home Office,United States,Port Thomas,North Carolina,South,PROD-71377,Technology,Accessories,Wireless Mouse,1900.84,9,-122.9,No,Credit Card
+WM-100406,2026-01-31,2026-02-04,First Class,CUST-7423,Dustin Marquez,Consumer,United States,North Sandra,North Carolina,South,PROD-97186,Office Supplies,Storage,File Organizer,594.6,4,-21,No,Cash on Delivery
+WM-100407,2024-07-31,2024-08-04,First Class,CUST-6711,Kimberly Hernandez,Home Office,United States,Hendersonfurt,Michigan,Central,PROD-85324,Technology,Phones,iPhone 15,299.96,8,32.26,No,Debit Card
+WM-100408,2026-02-14,2026-02-19,Same Day,CUST-4908,Gabriel Willis,Home Office,United States,West Christianborough,Nevada,West,PROD-41941,Office Supplies,Binders,Heavy Duty Binder,1630.64,5,227.86,No,Net Banking
+WM-100409,2024-07-11,2024-07-13,First Class,CUST-9921,Tim Wilson,Home Office,United States,West Hollybury,New Jersey,East,PROD-40953,Technology,Phones,Samsung Galaxy S24,2038.51,10,191.65,No,Debit Card
+WM-100410,2024-08-28,2024-08-31,Standard Class,CUST-2781,Chad Smith,Home Office,United States,West Elizabethburgh,Nevada,West,PROD-88172,Furniture,Bookcases,Metal Bookcase,1396.62,8,-28.94,No,UPI
+WM-100411,2025-07-03,2025-07-04,Second Class,CUST-3444,Michelle Jackson,Corporate,United States,Bentonhaven,Michigan,Central,PROD-79632,Office Supplies,Storage,Storage Box,559.68,3,167.49,Yes,Cash on Delivery
+WM-100412,2024-12-22,2024-12-25,First Class,CUST-2462,Bailey Yoder,Home Office,United States,Lake Kimberly,Virginia,South,PROD-11064,Furniture,Chairs,Executive Chair,763.34,5,239.17,No,Net Banking
+WM-100413,2025-07-08,2025-07-13,Standard Class,CUST-5623,Michael Ray,Consumer,United States,Lindsayview,Georgia,South,PROD-40833,Technology,Phones,Samsung Galaxy S24,2420.39,1,524.04,No,UPI
+WM-100414,2024-07-10,2024-07-14,Second Class,CUST-4083,Mr. Jacob Scott Jr.,Home Office,United States,South Spencerstad,North Carolina,South,PROD-60409,Office Supplies,Paper,Sticky Notes,1099.27,4,217.79,No,Cash on Delivery
+WM-100415,2024-07-01,2024-07-03,Same Day,CUST-3224,Alexandria Williams,Consumer,United States,East Joycetown,Georgia,South,PROD-27985,Technology,Copiers,HP Copier,48.77,1,-1.72,No,UPI
+WM-100416,2024-10-14,2024-10-19,Second Class,CUST-7959,Shannon Tran,Home Office,United States,Patrickberg,Virginia,South,PROD-10973,Office Supplies,Binders,Heavy Duty Binder,1071.83,8,78.37,No,Net Banking
+WM-100417,2025-04-16,2025-04-20,Same Day,CUST-7038,Erica Mckenzie,Consumer,United States,Walkerbury,Georgia,South,PROD-86056,Office Supplies,Storage,File Organizer,2317.88,10,150.98,Yes,UPI
+WM-100418,2024-10-14,2024-10-18,Second Class,CUST-8740,Jose Williams,Home Office,United States,Davidton,Washington,West,PROD-96997,Office Supplies,Storage,File Organizer,1302.03,9,391.21,Yes,Credit Card
+WM-100419,2026-03-31,2026-04-04,Same Day,CUST-6782,Ryan Murphy,Corporate,United States,Jonesmouth,Texas,Central,PROD-47907,Technology,Copiers,HP Copier,1146.01,8,181.4,No,Debit Card
+WM-100420,2025-01-09,2025-01-10,First Class,CUST-1447,Elizabeth Dean,Corporate,United States,Smithborough,Oregon,West,PROD-73538,Office Supplies,Storage,File Organizer,1580.66,10,-37.8,Yes,Credit Card
+WM-100421,2026-01-18,2026-01-23,Second Class,CUST-3476,Morgan Payne,Home Office,United States,Richardsonfort,New York,East,PROD-68543,Technology,Accessories,Wireless Mouse,716.81,5,-67.1,Yes,Cash on Delivery
+WM-100422,2025-04-11,2025-04-13,Second Class,CUST-3525,Joshua Fields,Corporate,United States,East Adam,Pennsylvania,East,PROD-64125,Office Supplies,Binders,Heavy Duty Binder,2002.44,1,108.7,Yes,UPI
+WM-100423,2026-03-18,2026-03-20,Standard Class,CUST-1860,Elizabeth Harris,Consumer,United States,West Aaronfurt,New Jersey,East,PROD-70819,Office Supplies,Storage,Storage Box,1452.84,6,-109.77,No,UPI
+WM-100424,2024-07-13,2024-07-17,Same Day,CUST-1194,Brenda Ramirez,Corporate,United States,South Travis,North Carolina,South,PROD-68827,Technology,Copiers,HP Copier,1715.1,7,194.78,No,UPI
+WM-100425,2025-04-13,2025-04-20,Standard Class,CUST-5183,Jacqueline Villegas,Home Office,United States,East Phyllishaven,Texas,Central,PROD-86569,Furniture,Bookcases,Metal Bookcase,1090.83,5,55.34,No,UPI
+WM-100426,2025-10-04,2025-10-09,Standard Class,CUST-2113,Angela Bradley,Consumer,United States,New Codyberg,Georgia,South,PROD-63903,Office Supplies,Storage,Storage Box,856.77,3,35.1,Yes,Credit Card
+WM-100427,2024-11-27,2024-11-30,Standard Class,CUST-4552,Samuel Howe,Home Office,United States,Batesberg,Nevada,West,PROD-93634,Technology,Phones,Google Pixel 8,644.7,1,-57.59,Yes,Credit Card
+WM-100428,2025-01-30,2025-02-05,Standard Class,CUST-4018,David Harding,Corporate,United States,Haynesmouth,California,West,PROD-48609,Office Supplies,Binders,Heavy Duty Binder,1914.37,10,500.49,No,UPI
+WM-100429,2024-08-20,2024-08-26,First Class,CUST-2022,Christopher Owens,Corporate,United States,Port Kayla,Nevada,West,PROD-60933,Technology,Accessories,Laptop Sleeve,1929.3,6,30.49,Yes,Cash on Delivery
+WM-100430,2026-01-16,2026-01-17,Same Day,CUST-2776,Eric Baker,Consumer,United States,Martinezstad,Oregon,West,PROD-80861,Technology,Phones,Samsung Galaxy S24,1239.47,4,216.46,No,UPI
+WM-100431,2026-02-28,2026-03-01,Same Day,CUST-1307,Lindsey Lewis,Corporate,United States,North Ericport,New York,East,PROD-29510,Technology,Copiers,Canon Copier,106.46,2,16.73,No,Credit Card
+WM-100432,2025-02-28,2025-03-03,Same Day,CUST-8144,Anthony Evans,Corporate,United States,Eddiebury,Nevada,West,PROD-19188,Technology,Phones,Google Pixel 8,2263.45,10,-222.57,No,Net Banking
+WM-100433,2026-03-22,2026-03-23,Same Day,CUST-1904,Paul Wright,Home Office,United States,North Stephanie,New York,East,PROD-94813,Technology,Copiers,Canon Copier,1426.76,6,71.41,No,Credit Card
+WM-100434,2024-08-30,2024-09-05,Second Class,CUST-5896,Ronald Haas,Home Office,United States,Garciaberg,Ohio,Central,PROD-61131,Furniture,Tables,Coffee Table,523.74,9,-43.1,No,Credit Card
+WM-100435,2025-03-13,2025-03-19,Same Day,CUST-7369,Teresa Miller,Consumer,United States,East Madison,Michigan,Central,PROD-80851,Furniture,Bookcases,Metal Bookcase,489.87,1,-6.42,No,Cash on Delivery
+WM-100436,2024-06-13,2024-06-14,Same Day,CUST-9791,Christina Brewer PhD,Consumer,United States,Samanthaland,Virginia,South,PROD-85936,Furniture,Chairs,Gaming Chair,857.54,1,70.73,No,Debit Card
+WM-100437,2024-08-31,2024-09-06,Standard Class,CUST-3822,Joel Jackson,Home Office,United States,Port Mariamouth,California,West,PROD-16548,Office Supplies,Binders,Heavy Duty Binder,67.28,10,-5.34,No,Cash on Delivery
+WM-100438,2025-06-17,2025-06-24,Standard Class,CUST-4320,Michael Thompson,Corporate,United States,Underwoodfurt,Nevada,West,PROD-54216,Office Supplies,Binders,Ring Binder,2047.33,2,253.28,No,UPI
+WM-100439,2025-05-09,2025-05-12,First Class,CUST-2035,Amanda Harvey,Consumer,United States,East Joshua,Texas,Central,PROD-45899,Office Supplies,Storage,Storage Box,2094.34,4,510.81,No,Debit Card
+WM-100440,2025-04-13,2025-04-17,Same Day,CUST-3584,Karen Miller,Consumer,United States,Lake Kenneth,Georgia,South,PROD-73827,Office Supplies,Paper,A4 Paper Pack,624.24,10,-50.99,Yes,Credit Card
+WM-100441,2025-10-09,2025-10-15,Second Class,CUST-4377,Kelly Mccoy,Consumer,United States,Taylorborough,California,West,PROD-93863,Furniture,Chairs,Executive Chair,1492.45,5,130.29,No,Cash on Delivery
+WM-100442,2025-06-04,2025-06-10,First Class,CUST-6699,Kari Durham,Corporate,United States,South Kimberlystad,Virginia,South,PROD-10599,Furniture,Chairs,Executive Chair,113.3,3,25.24,Yes,Net Banking
+WM-100443,2024-06-17,2024-06-22,Second Class,CUST-5528,Daniel Huang,Consumer,United States,Paulburgh,Massachusetts,East,PROD-35391,Furniture,Bookcases,Wooden Bookcase,917.52,9,117.8,No,Credit Card
+WM-100444,2025-07-13,2025-07-19,Second Class,CUST-8121,Kevin Hall,Corporate,United States,Brianfort,New Jersey,East,PROD-53816,Technology,Phones,iPhone 15,2308.23,1,439,No,Net Banking
+WM-100445,2024-12-01,2024-12-06,Standard Class,CUST-4855,Robert Stark,Home Office,United States,North John,Florida,South,PROD-68303,Furniture,Bookcases,Wooden Bookcase,456.2,1,53.96,Yes,Net Banking
+WM-100446,2025-08-18,2025-08-20,Same Day,CUST-4276,Rebecca Kelly,Corporate,United States,Port Wendybury,Michigan,Central,PROD-38922,Furniture,Bookcases,Metal Bookcase,1951.86,6,4.88,No,Credit Card
+WM-100447,2025-01-30,2025-02-01,Second Class,CUST-8499,Melissa Sloan,Home Office,United States,East Joel,Virginia,South,PROD-35448,Furniture,Tables,Dining Table,2321.16,8,-46.13,No,Cash on Delivery
+WM-100448,2025-08-08,2025-08-14,Same Day,CUST-7852,Travis Copeland,Consumer,United States,Lake Jackieshire,Illinois,Central,PROD-55033,Technology,Phones,iPhone 15,1430.29,5,-55.17,No,Debit Card
+WM-100449,2025-06-12,2025-06-17,Second Class,CUST-8757,Anthony Guzman,Corporate,United States,Weaverburgh,Illinois,Central,PROD-46591,Office Supplies,Storage,Storage Box,2425.94,4,-148.19,No,Credit Card
+WM-100450,2026-05-10,2026-05-15,Same Day,CUST-1724,Renee Peterson,Consumer,United States,New Timothymouth,Georgia,South,PROD-71689,Furniture,Tables,Coffee Table,571.57,10,186.23,Yes,Net Banking
+WM-100451,2025-02-03,2025-02-10,Standard Class,CUST-1203,Charles Bush,Home Office,United States,Port Megan,Nevada,West,PROD-63296,Office Supplies,Paper,Sticky Notes,1999.08,2,207.1,No,Debit Card
+WM-100452,2025-07-10,2025-07-11,Standard Class,CUST-8452,Toni Brooks,Corporate,United States,Port Daniel,Pennsylvania,East,PROD-28169,Technology,Phones,Google Pixel 8,59.51,5,-1.62,No,UPI
+WM-100453,2025-01-17,2025-01-24,Standard Class,CUST-5859,William Oconnor,Corporate,United States,Willismouth,Pennsylvania,East,PROD-45361,Office Supplies,Paper,A4 Paper Pack,1575.72,7,475.94,No,Net Banking
+WM-100454,2025-10-14,2025-10-19,Same Day,CUST-6989,Michael Hoffman,Corporate,United States,Connerfort,New York,East,PROD-91151,Office Supplies,Paper,A4 Paper Pack,2364.4,6,708.35,Yes,Credit Card
+WM-100455,2026-02-19,2026-02-24,Second Class,CUST-9841,Eric Barker,Consumer,United States,Jeffreyshire,Ohio,Central,PROD-95070,Furniture,Bookcases,Wooden Bookcase,1779.16,4,-67.11,No,UPI
+WM-100456,2025-11-24,2025-11-29,First Class,CUST-8412,Jenna Gamble,Corporate,United States,East Jessica,Massachusetts,East,PROD-75726,Technology,Accessories,USB-C Hub,1706.96,5,-128.86,No,Net Banking
+WM-100457,2025-10-06,2025-10-10,Standard Class,CUST-2313,Taylor Taylor,Corporate,United States,East Carriebury,Nevada,West,PROD-33437,Office Supplies,Storage,File Organizer,1559.96,2,-23.78,No,Cash on Delivery
+WM-100458,2024-10-05,2024-10-11,First Class,CUST-7824,Tracey Underwood,Home Office,United States,East Michaelmouth,California,West,PROD-80966,Furniture,Tables,Dining Table,386.93,3,113.66,Yes,Debit Card
+WM-100459,2024-11-06,2024-11-12,First Class,CUST-7745,Barry Scott,Home Office,United States,Seanview,North Carolina,South,PROD-54930,Technology,Accessories,Laptop Sleeve,73.28,4,-5.25,No,Cash on Delivery
+WM-100460,2025-05-03,2025-05-05,Second Class,CUST-8933,Tracy Wilkerson,Corporate,United States,Lake Aaronfurt,Virginia,South,PROD-47767,Technology,Accessories,Laptop Sleeve,2247.74,5,-51.06,No,Credit Card
+WM-100461,2025-07-26,2025-07-31,Second Class,CUST-3641,Ronald Kramer,Consumer,United States,Maciasstad,Pennsylvania,East,PROD-25324,Technology,Accessories,Wireless Mouse,2311.85,9,65.57,No,Credit Card
+WM-100462,2026-02-07,2026-02-09,Second Class,CUST-7109,Elizabeth Flores,Corporate,United States,East Shannon,Illinois,Central,PROD-80761,Technology,Accessories,USB-C Hub,528.79,1,105.49,No,Debit Card
+WM-100463,2024-09-29,2024-10-06,Standard Class,CUST-9948,Kimberly Villanueva,Home Office,United States,North Matthewfurt,Texas,Central,PROD-53421,Furniture,Tables,Coffee Table,380.55,8,120.83,No,Cash on Delivery
+WM-100464,2025-11-26,2025-12-03,Same Day,CUST-1656,Tommy Martin,Consumer,United States,West Brookefort,North Carolina,South,PROD-98867,Office Supplies,Storage,Storage Box,1421.77,8,74.51,Yes,Net Banking
+WM-100465,2025-02-09,2025-02-16,Second Class,CUST-9625,Colton Terry,Consumer,United States,Mooreville,Oregon,West,PROD-46428,Furniture,Tables,Study Table,566.5,6,-33.07,Yes,Debit Card
+WM-100466,2024-11-28,2024-12-03,First Class,CUST-7513,James Dunn,Consumer,United States,Donnaport,California,West,PROD-66051,Office Supplies,Paper,A4 Paper Pack,998.17,8,42.91,Yes,Cash on Delivery
+WM-100467,2024-05-30,2024-06-02,Second Class,CUST-8278,Edward Stanley,Home Office,United States,Hernandezstad,North Carolina,South,PROD-64474,Furniture,Tables,Coffee Table,784.05,8,230.07,Yes,UPI
+WM-100468,2024-11-04,2024-11-06,First Class,CUST-8776,Edgar Miller,Home Office,United States,Gonzaleztown,Illinois,Central,PROD-53963,Office Supplies,Paper,Sticky Notes,2092.07,10,-128.17,No,Credit Card
+WM-100469,2025-06-11,2025-06-14,Second Class,CUST-4047,Deborah May,Corporate,United States,West Kristenfort,Florida,South,PROD-47940,Furniture,Tables,Study Table,1047.99,9,113.13,No,Net Banking
+WM-100470,2025-03-10,2025-03-14,Second Class,CUST-5303,Andrew Gonzales,Corporate,United States,Lopezfurt,Florida,South,PROD-93958,Technology,Copiers,Canon Copier,1407.02,8,1.45,Yes,UPI
+WM-100471,2025-08-09,2025-08-15,Same Day,CUST-2093,Paul Contreras,Home Office,United States,Jeremyview,Oregon,West,PROD-57416,Technology,Phones,Samsung Galaxy S24,1619.07,1,-74.95,No,Net Banking
+WM-100472,2025-04-14,2025-04-20,First Class,CUST-3668,Leah Spencer,Home Office,United States,Lake Mauriceside,Virginia,South,PROD-17669,Technology,Copiers,Canon Copier,2049.34,6,267.72,Yes,Debit Card
+WM-100473,2025-07-17,2025-07-19,Standard Class,CUST-5749,Taylor Armstrong,Corporate,United States,Cardenaschester,Michigan,Central,PROD-79417,Office Supplies,Binders,Heavy Duty Binder,151.16,6,13.42,No,Credit Card
+WM-100474,2025-03-30,2025-04-04,First Class,CUST-6939,Michelle Shaw,Consumer,United States,South Kent,Massachusetts,East,PROD-80047,Furniture,Bookcases,Wooden Bookcase,820.07,6,223.12,No,Net Banking
+WM-100475,2025-05-11,2025-05-14,Standard Class,CUST-4569,William Stanton,Consumer,United States,North Stacy,Illinois,Central,PROD-75979,Furniture,Chairs,Executive Chair,945.08,8,80.71,No,Debit Card
+WM-100476,2024-07-27,2024-07-28,First Class,CUST-3277,Jessica Osborn DDS,Corporate,United States,East Brad,New York,East,PROD-88335,Technology,Accessories,Wireless Mouse,2050.73,1,237.44,No,Net Banking
+WM-100477,2024-08-03,2024-08-09,Second Class,CUST-6036,James Nguyen,Consumer,United States,Luisland,Illinois,Central,PROD-37504,Office Supplies,Paper,A4 Paper Pack,2040.14,4,-85.85,No,Debit Card
+WM-100478,2026-01-28,2026-01-29,Standard Class,CUST-9412,Laurie Harrington,Home Office,United States,Apriltown,Nevada,West,PROD-17768,Office Supplies,Binders,Ring Binder,1941.24,7,-156.98,Yes,UPI
+WM-100479,2025-08-27,2025-09-02,Second Class,CUST-4027,Traci Garcia,Home Office,United States,South Edwardshire,Oregon,West,PROD-56076,Furniture,Chairs,Gaming Chair,45.48,2,11.46,No,Credit Card
+WM-100480,2026-04-01,2026-04-04,Standard Class,CUST-2623,Hailey Jenkins,Home Office,United States,New Kimberlyport,Washington,West,PROD-11832,Office Supplies,Paper,Sticky Notes,418.18,9,105.11,No,Net Banking
+WM-100481,2025-09-12,2025-09-13,First Class,CUST-4033,Christopher Powell,Corporate,United States,Penashire,Massachusetts,East,PROD-98280,Technology,Phones,Google Pixel 8,2434.48,2,769.06,No,Credit Card
+WM-100482,2025-11-15,2025-11-20,Standard Class,CUST-8633,Patrick Mccall,Consumer,United States,Williamsmouth,Pennsylvania,East,PROD-78121,Technology,Accessories,Wireless Mouse,584.33,2,141.78,No,Debit Card
+WM-100483,2025-01-24,2025-01-25,First Class,CUST-8273,John Horton,Consumer,United States,Andrewport,North Carolina,South,PROD-82602,Office Supplies,Paper,A4 Paper Pack,833.73,2,60.99,No,UPI
+WM-100484,2025-12-26,2026-01-01,Standard Class,CUST-7494,Roger Adams,Corporate,United States,Port Jeremyport,Michigan,Central,PROD-78506,Furniture,Chairs,Gaming Chair,931.25,1,325.4,No,Credit Card
+WM-100485,2024-10-20,2024-10-25,First Class,CUST-4281,Thomas Russell,Home Office,United States,Jacobsland,Washington,West,PROD-62990,Technology,Accessories,Laptop Sleeve,2444.38,3,-173.26,No,Credit Card
+WM-100486,2026-02-24,2026-03-03,First Class,CUST-8795,Rick Jones,Home Office,United States,Malonestad,New Jersey,East,PROD-89058,Office Supplies,Paper,Sticky Notes,1789.46,10,299.09,No,UPI
+WM-100487,2026-04-10,2026-04-11,Standard Class,CUST-2631,Carrie Golden,Home Office,United States,Taylorhaven,North Carolina,South,PROD-16927,Furniture,Tables,Dining Table,641.71,8,2.48,No,Credit Card
+WM-100488,2024-06-22,2024-06-28,Standard Class,CUST-9518,Thomas Bush,Corporate,United States,Port Brian,Florida,South,PROD-71082,Furniture,Tables,Study Table,830.85,5,149.46,Yes,Debit Card
+WM-100489,2025-06-24,2025-06-29,Same Day,CUST-2951,Thomas Maldonado,Corporate,United States,Michealmouth,Michigan,Central,PROD-68997,Technology,Copiers,Canon Copier,872.17,9,127.32,Yes,Cash on Delivery
+WM-100490,2025-05-09,2025-05-11,Same Day,CUST-8056,Seth Matthews,Consumer,United States,West Tracy,Virginia,South,PROD-50954,Technology,Phones,iPhone 15,1400.53,5,417.52,No,UPI
+WM-100491,2025-12-30,2026-01-05,Second Class,CUST-9301,Ann Johnson,Consumer,United States,Maxview,Florida,South,PROD-61299,Office Supplies,Storage,File Organizer,1393.38,9,219.45,No,Cash on Delivery
+WM-100492,2026-03-24,2026-03-31,Second Class,CUST-7003,Danny Clark,Corporate,United States,East Melissaborough,Virginia,South,PROD-86541,Office Supplies,Storage,File Organizer,2444.9,6,-176.91,Yes,Credit Card
+WM-100493,2025-05-31,2025-06-03,Second Class,CUST-6113,Maria Burke,Home Office,United States,Palmertown,Michigan,Central,PROD-21133,Furniture,Tables,Coffee Table,1041.59,1,205.77,No,Credit Card
+WM-100494,2025-12-02,2025-12-07,Same Day,CUST-5368,Maria Coleman,Consumer,United States,East Johnnyport,Texas,Central,PROD-71564,Technology,Phones,iPhone 15,828.77,8,162.44,No,Net Banking
+WM-100495,2024-12-09,2024-12-12,First Class,CUST-9138,Eric Meyer,Home Office,United States,Yorkmouth,Oregon,West,PROD-97475,Technology,Copiers,Canon Copier,1439.9,8,-79.16,No,Cash on Delivery
+WM-100496,2025-06-29,2025-07-03,First Class,CUST-5344,Dr. Sara Hoffman DDS,Consumer,United States,Silvatown,Pennsylvania,East,PROD-48970,Technology,Accessories,Wireless Mouse,1595.9,2,443.93,No,Net Banking
+WM-100497,2025-06-06,2025-06-12,Standard Class,CUST-9700,William Davidson,Corporate,United States,Kennethville,Georgia,South,PROD-65981,Office Supplies,Storage,Storage Box,2113.58,2,351.57,No,Debit Card
+WM-100498,2024-10-21,2024-10-25,First Class,CUST-9443,Ralph Yoder,Corporate,United States,Joseport,Texas,Central,PROD-98022,Office Supplies,Paper,Sticky Notes,1665.37,6,-16.6,No,Net Banking
+WM-100499,2025-12-09,2025-12-14,Standard Class,CUST-9556,Jonathan Phillips,Consumer,United States,Guerreroberg,New York,East,PROD-57746,Office Supplies,Storage,Storage Box,1258.03,8,25.88,No,UPI
+WM-100500,2025-08-23,2025-08-30,Second Class,CUST-7757,Laura Lee,Corporate,United States,Sullivanton,Massachusetts,East,PROD-47623,Furniture,Bookcases,Metal Bookcase,1099.76,6,315.72,Yes,Debit Card
